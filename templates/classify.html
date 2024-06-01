@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container mt-5">
+    <h1>Diagnosa</h1>
+    <form method="POST">
+        <div class="form-group">
+          <h5 class="mb-3">Pilih gejala yang teramati:</h5>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Pertumbuhan Tanaman Yang Tidak Normal" name="Pertumbuhan Tanaman Yang Tidak Normal" value="1">
+            <label class="form-check-label" for="Pertumbuhan Tanaman Yang Tidak Normal">Pertumbuhan Tanaman Yang Tidak Normal</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Daun Berubah Warna Menjadi Hijau Pucat" name="Daun Berubah Warna Menjadi Hijau Pucat" value="1">
+            <label class="form-check-label" for="Daun Berubah Warna Menjadi Hijau Pucat">Daun Berubah Warna Menjadi Hijau Pucat</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Tanaman Menjadi Lemah Dan Terjadi Nekrosis" name="Tanaman Menjadi Lemah Dan Terjadi Nekrosis" value="1">
+            <label class="form-check-label" for="Tanaman Menjadi Lemah Dan Terjadi Nekrosis">Tanaman Menjadi Lemah Dan Terjadi Nekrosis</label>
+          </div>
+          <br>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Daun Yang Terdapat Bercak Bercak Lonjong Berwarna Kuning" name="Daun Yang Terdapat Bercak Bercak Lonjong Berwarna Kuning" value="1">
+            <label class="form-check-label" for="Daun Yang Terdapat Bercak Bercak Lonjong Berwarna Kuning">Daun Yang Terdapat Bercak Bercak Lonjong Berwarna Kuning</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Daun Berubah Warna Dari Hijau Menjadi Kuning" name="Daun Berubah Warna Dari Hijau Menjadi Kuning" value="1">
+            <label class="form-check-label" for="Daun Berubah Warna Dari Hijau Menjadi Kuning">Daun Berubah Warna Dari Hijau Menjadi Kuning</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Pertumbuhan Menjadi Kerdil" name="Pertumbuhan Menjadi Kerdil" value="1">
+            <label class="form-check-label" for="Pertumbuhan Menjadi Kerdil">Pertumbuhan Menjadi Kerdil</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Pangkal Batang Menghitam" name="Pangkal Batang Menghitam" value="1">
+            <label class="form-check-label" for="Pangkal Batang Menghitam">Pangkal Batang Menghitam</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Pelepah Kecil Kecil Sobek Atau Tidak Ada Sama Sekali" name="Pelepah Kecil Kecil Sobek Atau Tidak Ada Sama Sekali" value="1">
+            <label class="form-check-label" for="Pelepah Kecil Kecil Sobek Atau Tidak Ada Sama Sekali">Pelepah Kecil Kecil Sobek Atau Tidak Ada Sama Sekali</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Pelepah Banyak Yang Patah Dan Menggantung Pada Batang" name="Pelepah Banyak Yang Patah Dan Menggantung Pada Batang" value="1">
+            <label class="form-check-label" for="Pelepah Banyak Yang Patah Dan Menggantung Pada Batang">Pelepah Banyak Yang Patah Dan Menggantung Pada Batang</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Terdapat Getah Atau Lendir Yang Keluar Pada Batang Sawit Yang Terinfeksi Jamur Ganoderma" name="Terdapat Getah Atau Lendir Yang Keluar Pada Batang Sawit Yang Terinfeksi Jamur Ganoderma" value="1">
+            <label class="form-check-label" for="Terdapat Getah Atau Lendir Yang Keluar Pada Batang Sawit Yang Terinfeksi Jamur Ganoderma">Terdapat Getah Atau Lendir Yang Keluar Pada Batang Sawit Yang Terinfeksi Jamur Ganoderma</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Tanaman Menjadi Kuncup Melengkung" name="Tanaman Menjadi Kuncup Melengkung" value="1">
+            <label class="form-check-label" for="Tanaman Menjadi Kuncup Melengkung">Tanaman Menjadi Kuncup Melengkung</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Daun Bercak Bercak Kuning Ditengah Daun terdapat Bercak Berwarna Coklat" name="Daun Bercak Bercak Kuning Ditengah Daun terdapat Bercak Berwarna Coklat" value="1">
+            <label class="form-check-label" for="Daun Bercak Bercak Kuning Ditengah Daun terdapat Bercak Berwarna Coklat">Daun Bercak Bercak Kuning Ditengah Daun terdapat Bercak Berwarna Coklat</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Terlihat Adanya Warna Coklat Pada Ujung Daun" name="Terlihat Adanya Warna Coklat Pada Ujung Daun" value="1">
+            <label class="form-check-label" for="Terlihat Adanya Warna Coklat Pada Ujung Daun">Terlihat Adanya Warna Coklat Pada Ujung Daun</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Adanya	Rizomorf Jamur Berwarna Putih Pada Permukaan Buah" name="Adanya	Rizomorf Jamur Berwarna Putih Pada Permukaan Buah" value="1">
+            <label class="form-check-label" for="Adanya	Rizomorf Jamur Berwarna Putih Pada Permukaan Buah">Adanya	Rizomorf Jamur Berwarna Putih Pada Permukaan Buah</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Tandan Buah Rusak Atau Membusuk" name="Tandan Buah Rusak Atau Membusuk" value="1">
+            <label class="form-check-label" for="Tandan Buah Rusak Atau Membusuk">Tandan Buah Rusak Atau Membusuk</label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="Daun Tajuk Yang Tumbuh Lebih kecil Bukan Tambah Besar " name="Daun Tajuk Yang Tumbuh Lebih kecil Bukan Tambah Besar " value="1">
+            <label class="form-check-label" for="Daun Tajuk Yang Tumbuh Lebih kecil Bukan Tambah Besar ">Daun Tajuk Yang Tumbuh Lebih kecil Bukan Tambah Besar </label>
+          </div>
+        </div>
+        <button type="submit" class="btn btn-primary mt-3">Diagnosa</button>
+      </form>
+</div>
+  
+{% endblock content %}

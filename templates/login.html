@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container mt-5">
+    <div class="card shadow">
+    <form class="card-body" method="post" action="">
+        <div class="mb-3">
+            <label for="name" class="form-label">Nama</label>
+            <input required name="name" type="text" class="form-control" id="name" placeholder="Nama anda">
+        </div>
+        <div class="mb-3">
+            <label for="phone" class="form-label">No hp</label>
+            <input required name="phone" type="text" class="form-control" id="phone" placeholder="Nomer hp">
+        </div>
+        <div class="mb-3">
+            <label for="Address" class="form-label">Alamat</label>
+            <textarea required name="address" class="form-control" id="Address" rows="3"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Masuk</button>
+    </form>
+    </div>
+</div>
+  
+{% endblock content %}

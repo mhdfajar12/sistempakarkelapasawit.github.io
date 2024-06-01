@@ -1,0 +1,1001 @@
+nama,Pertumbuhan Tanaman Yang Tidak Normal,Daun Berubah Warna Menjadi Hijau Pucat,Tanaman Menjadi Lemah Dan Terjadi Nekrosis,Daun Yang Terdapat Bercak Bercak Lonjong Berwarna Kuning,Daun Berubah Warna Dari Hijau Menjadi Kuning,Pertumbuhan Menjadi Kerdil,Pangkal Batang Menghitam,Pelepah Kecil Kecil Sobek Atau Tidak Ada Sama Sekali,Pelepah Banyak Yang Patah Dan Menggantung Pada Batang,Terdapat Getah Atau Lendir Yang Keluar Pada Batang Sawit Yang Terinfeksi Jamur Ganoderma,Tanaman Menjadi Kuncup Melengkung,Daun Bercak Bercak Kuning Ditengah Daun terdapat Bercak Berwarna Coklat,Terlihat Adanya Warna Coklat Pada Ujung Daun,Adanya	Rizomorf Jamur Berwarna Putih Pada Permukaan Buah,Tandan Buah Rusak Atau Membusuk,Daun Tajuk Yang Tumbuh Lebih kecil Bukan Tambah Besar 
+busuk pangkal batang,false,true,true,true,false,true,true,false,true,false,false,true,true,true,false,true
+busuk kuncup,false,false,false,true,false,true,false,true,false,true,true,false,false,true,false,true
+busuk kuncup,false,true,true,false,true,true,false,false,true,false,true,false,true,true,true,false
+anthracnose,false,true,false,false,true,true,true,false,true,true,true,true,false,false,false,true
+busuk kuncup,false,false,true,false,false,true,false,true,true,false,false,true,false,true,true,false
+daun mengecil,true,true,false,true,false,false,false,true,false,false,false,true,true,true,true,true
+busuk buah,false,true,false,true,false,true,true,false,true,false,true,false,true,true,false,true
+anthracnose,true,false,true,false,true,true,true,true,true,true,false,false,true,false,true,true
+garis kuning,true,false,true,true,true,true,false,false,true,false,true,true,true,false,false,false
+busuk pangkal batang,false,true,false,true,false,false,true,false,true,true,false,false,true,true,false,false
+tajuk,false,true,true,false,false,true,false,false,true,false,false,false,true,true,true,true
+busuk pangkal batang,false,false,false,false,false,false,true,false,true,true,true,true,true,false,true,false
+busuk akar sawit,true,false,false,true,true,true,false,true,false,false,true,true,false,false,false,true
+tajuk,false,true,false,true,true,true,false,false,true,true,false,false,true,false,false,true
+busuk buah,true,true,false,true,false,true,false,false,false,false,false,false,true,false,true,false
+tajuk,false,true,true,false,true,true,true,false,false,true,true,false,false,true,true,true
+anthracnose,true,false,true,true,false,false,true,false,true,true,false,false,false,false,true,true
+tajuk,true,false,false,true,false,false,true,false,true,false,false,false,false,true,true,false
+busuk akar sawit,false,false,true,true,true,false,false,true,false,false,false,true,true,true,true,false
+busuk kuncup,false,false,true,true,true,true,true,false,true,true,true,true,true,false,true,false
+tajuk,true,true,false,true,true,true,true,false,true,true,false,true,false,false,false,false
+anthracnose,false,true,true,false,true,true,false,true,true,false,false,true,true,false,true,false
+busuk kuncup,true,false,false,true,false,true,false,false,true,false,false,true,true,false,false,true
+busuk akar sawit,false,false,true,true,false,true,true,true,false,false,false,true,true,true,true,true
+daun mengecil,false,true,true,true,true,false,true,true,false,true,true,true,false,false,true,true
+busuk kuncup,false,false,false,false,false,true,false,true,false,true,false,false,false,false,true,true
+daun mengecil,false,true,false,true,false,false,false,true,false,true,true,true,true,true,false,false
+busuk buah,true,false,false,true,false,true,true,false,false,false,false,true,true,false,true,true
+tajuk,false,true,false,false,false,true,true,false,false,false,true,false,true,true,false,true
+busuk buah,true,true,false,false,true,false,true,true,false,true,false,false,true,true,true,true
+garis kuning,false,true,true,false,true,false,false,true,true,false,false,false,false,false,false,true
+garis kuning,true,false,false,true,true,true,false,true,true,true,false,false,true,true,true,false
+tajuk,false,true,true,true,true,false,true,false,true,true,true,true,false,false,false,false
+busuk buah,false,false,false,true,true,false,false,true,false,true,false,false,false,false,true,true
+garis kuning,false,false,true,true,true,true,false,false,false,true,true,true,true,true,true,true
+busuk kuncup,false,false,false,true,true,false,false,true,false,true,false,false,false,true,false,true
+tajuk,true,false,false,true,false,true,false,true,false,true,true,false,true,false,true,true
+busuk buah,false,false,false,false,false,true,true,true,false,false,true,true,true,false,false,true
+busuk kuncup,false,false,true,false,true,true,true,true,true,true,false,true,false,false,true,false
+busuk buah,false,false,false,false,true,true,false,false,true,false,true,true,false,true,false,true
+busuk buah,true,false,true,false,false,true,false,true,true,false,false,true,false,false,false,false
+busuk kuncup,true,true,false,true,true,false,false,false,false,false,true,true,false,true,false,false
+daun mengecil,false,false,true,true,false,true,false,true,true,false,false,false,true,true,false,false
+busuk buah,false,false,true,false,true,false,false,false,false,true,false,false,false,true,true,false
+busuk pangkal batang,false,true,true,false,true,false,false,true,false,false,true,false,true,false,true,false
+busuk akar sawit,false,true,true,false,true,true,true,false,false,false,true,true,false,false,false,true
+busuk pangkal batang,true,true,false,false,true,true,true,true,true,true,true,false,false,false,true,true
+busuk kuncup,false,true,true,false,false,false,true,true,false,false,false,false,false,true,true,false
+garis kuning,true,false,false,true,false,false,true,true,true,true,false,true,true,false,true,false
+anthracnose,true,false,false,true,false,true,false,true,true,false,true,true,true,true,true,true
+busuk kuncup,false,true,false,false,false,true,false,true,false,true,false,true,false,false,true,false
+busuk kuncup,false,true,false,false,false,false,false,true,true,true,true,false,true,false,true,false
+garis kuning,true,false,false,true,false,true,false,true,true,false,true,true,false,true,true,true
+tajuk,true,false,false,false,true,false,true,false,true,true,true,false,true,false,false,true
+busuk akar sawit,false,true,false,true,true,true,true,true,true,false,false,true,false,false,true,true
+busuk buah,false,false,true,true,false,false,false,true,false,true,true,false,false,true,true,false
+busuk pangkal batang,true,true,true,true,false,true,false,false,true,false,false,true,false,true,false,true
+garis kuning,true,false,false,true,false,false,false,true,true,true,false,false,true,false,true,false
+garis kuning,true,true,true,true,false,true,false,false,false,true,false,true,false,false,false,true
+anthracnose,true,false,true,true,false,false,true,true,false,false,true,false,true,false,false,true
+tajuk,false,true,true,true,false,true,false,true,false,true,true,false,true,true,true,false
+daun mengecil,true,true,false,true,false,false,false,true,false,true,true,false,false,false,false,true
+busuk buah,true,false,false,false,true,true,true,false,false,true,false,true,true,false,true,true
+anthracnose,true,true,false,false,false,true,false,true,true,true,false,true,false,false,true,false
+busuk buah,true,true,false,false,false,false,true,false,false,true,true,true,false,false,false,true
+busuk buah,true,true,false,false,true,false,false,true,false,false,false,false,false,true,false,false
+tajuk,true,false,true,false,true,false,false,true,false,true,false,true,false,false,true,false
+busuk pangkal batang,true,true,false,false,true,false,false,true,false,true,true,false,true,false,true,false
+busuk buah,false,false,true,true,false,false,true,true,false,false,false,false,true,true,false,true
+busuk akar sawit,true,true,false,true,true,true,false,true,false,false,true,true,true,false,false,false
+daun mengecil,false,false,false,true,false,true,true,false,false,false,false,true,false,true,false,true
+busuk buah,true,true,false,true,false,false,false,false,false,false,true,false,true,false,false,false
+busuk kuncup,true,false,true,true,true,true,false,false,false,true,true,false,false,true,true,true
+busuk buah,true,false,true,true,true,true,false,false,false,false,true,false,false,false,true,false
+busuk akar sawit,false,false,false,false,false,false,true,false,false,true,true,false,true,true,false,false
+daun mengecil,false,true,false,false,false,true,false,true,true,false,false,true,true,true,true,false
+tajuk,true,false,false,false,false,false,true,true,false,false,false,true,false,true,true,true
+anthracnose,false,false,false,false,false,false,true,true,true,false,false,true,true,false,true,false
+busuk pangkal batang,false,false,false,true,true,true,true,false,false,false,false,true,true,true,true,false
+anthracnose,true,false,false,false,false,true,true,false,true,true,false,true,false,true,true,false
+busuk akar sawit,true,false,true,true,true,false,false,true,false,true,false,false,false,true,false,false
+busuk pangkal batang,true,false,true,false,true,false,false,true,true,true,false,true,true,false,false,true
+busuk kuncup,true,true,true,true,false,true,true,true,true,false,false,false,true,false,false,true
+garis kuning,false,false,true,false,true,false,false,false,true,false,false,true,false,true,false,true
+daun mengecil,false,false,true,true,true,false,false,false,true,true,false,true,true,false,false,false
+busuk akar sawit,false,true,true,true,false,false,false,true,true,false,true,false,false,true,true,true
+busuk akar sawit,false,false,false,false,false,false,true,false,false,true,false,false,false,false,true,true
+busuk pangkal batang,true,false,false,false,false,false,false,true,false,true,false,false,true,true,true,true
+busuk kuncup,false,false,true,false,false,true,false,true,false,true,false,false,false,true,true,true
+busuk pangkal batang,false,false,false,false,true,true,true,true,false,false,true,false,false,true,true,true
+busuk akar sawit,true,false,false,false,false,true,true,true,true,true,false,true,false,false,false,true
+anthracnose,false,false,false,false,false,true,false,true,true,false,true,true,true,false,true,false
+busuk kuncup,false,true,false,false,false,false,false,true,true,true,true,false,false,false,true,true
+busuk kuncup,false,true,false,true,true,false,false,false,true,false,false,true,true,true,true,true
+busuk buah,false,true,true,true,true,false,false,false,true,true,false,true,false,true,true,true
+daun mengecil,true,false,true,false,true,false,false,true,false,true,true,true,true,false,true,false
+busuk buah,true,true,false,false,false,false,false,true,false,false,false,true,false,true,false,true
+busuk kuncup,false,false,true,true,false,true,false,true,false,true,true,false,false,true,true,false
+anthracnose,true,true,false,false,true,false,true,false,true,true,false,false,false,true,true,true
+busuk buah,false,true,true,true,true,true,false,false,false,false,false,false,true,false,false,true
+busuk akar sawit,true,false,false,false,true,false,false,false,false,true,false,true,false,false,true,false
+anthracnose,true,true,true,true,true,false,true,false,false,true,false,true,true,false,false,true
+busuk akar sawit,true,true,true,false,true,false,true,false,true,false,true,false,false,true,true,true
+busuk akar sawit,true,true,false,false,true,true,false,true,false,true,false,false,true,true,false,true
+busuk pangkal batang,true,true,true,true,true,false,true,false,true,true,false,false,true,false,false,true
+busuk buah,false,false,false,false,false,true,true,true,true,true,true,true,false,true,true,true
+garis kuning,false,false,false,false,false,false,false,true,true,false,false,false,false,true,true,false
+garis kuning,false,false,true,false,true,false,false,false,true,true,true,true,false,true,false,false
+garis kuning,false,false,true,true,false,true,true,true,false,true,false,false,true,true,false,false
+busuk buah,false,true,false,false,true,false,false,true,true,true,false,true,true,true,true,false
+busuk pangkal batang,true,false,true,true,false,false,true,true,true,true,true,false,false,true,true,false
+anthracnose,true,true,true,false,false,true,true,false,true,true,false,false,true,false,true,false
+garis kuning,false,false,false,false,false,true,true,false,true,true,true,false,true,true,true,true
+anthracnose,false,false,true,false,true,false,false,false,true,false,false,true,false,true,true,false
+anthracnose,false,false,false,false,false,false,true,false,false,true,false,true,true,true,false,false
+busuk kuncup,false,true,false,false,false,false,true,false,false,false,false,false,true,false,false,false
+busuk pangkal batang,true,true,false,true,true,true,false,true,true,false,false,false,true,false,true,false
+tajuk,false,false,true,false,true,true,false,true,false,false,false,false,false,false,true,true
+busuk buah,true,true,false,true,false,false,true,false,false,true,true,false,true,true,false,true
+garis kuning,true,false,true,true,true,true,true,false,false,true,false,true,false,true,false,true
+daun mengecil,false,true,false,false,true,false,true,false,false,true,true,true,false,true,true,true
+tajuk,false,true,true,false,true,true,false,false,false,true,false,false,true,false,true,false
+busuk akar sawit,false,true,true,false,false,true,true,false,true,false,true,false,true,true,false,false
+tajuk,false,false,false,false,false,true,false,true,false,false,false,false,false,true,false,false
+busuk buah,true,false,false,true,true,false,false,false,false,true,false,false,false,false,false,true
+busuk pangkal batang,true,true,true,true,false,false,true,false,false,true,true,false,true,false,true,true
+garis kuning,true,true,false,true,true,false,false,false,false,false,false,false,true,false,true,true
+busuk buah,true,false,false,false,false,false,false,false,false,true,true,true,false,true,false,false
+busuk pangkal batang,true,true,true,false,false,false,false,true,true,true,false,true,false,true,false,true
+tajuk,true,false,false,true,true,true,false,true,true,true,false,false,true,true,false,true
+garis kuning,false,true,true,true,false,false,true,false,false,false,true,false,false,true,true,false
+busuk akar sawit,false,false,false,true,false,true,true,false,false,false,true,true,true,false,true,false
+anthracnose,false,false,true,false,false,true,false,true,true,false,true,true,true,true,true,false
+anthracnose,true,true,false,true,false,true,true,false,true,true,true,true,false,false,true,false
+busuk kuncup,true,false,false,false,true,false,true,true,false,false,true,true,false,true,true,true
+busuk kuncup,true,false,true,false,false,true,false,false,false,true,false,true,false,false,true,false
+tajuk,true,false,true,true,true,true,true,true,true,true,true,true,false,false,true,true
+busuk pangkal batang,false,true,true,false,false,true,false,false,false,true,false,false,false,true,false,false
+anthracnose,true,true,false,true,true,false,false,false,false,false,false,false,false,false,true,true
+busuk buah,false,true,true,true,false,true,false,false,true,true,false,false,true,true,false,true
+busuk kuncup,false,false,true,true,true,false,false,true,false,false,true,false,true,false,false,true
+busuk buah,false,true,true,true,true,true,true,false,true,true,true,false,true,false,false,true
+garis kuning,true,false,true,false,false,true,false,false,true,true,true,true,false,false,true,true
+busuk buah,true,true,false,true,true,false,true,true,false,true,false,false,false,true,false,true
+anthracnose,false,false,true,false,false,true,false,true,true,true,false,false,true,true,false,true
+anthracnose,false,false,true,false,true,false,true,true,true,false,false,false,false,false,false,true
+busuk kuncup,true,true,true,true,false,false,false,false,true,false,false,true,true,true,false,false
+busuk kuncup,false,true,true,false,true,true,true,true,true,true,false,true,false,true,true,false
+daun mengecil,false,true,false,false,false,true,true,false,true,false,false,true,true,false,true,false
+daun mengecil,false,true,false,true,true,true,true,false,true,true,false,true,false,true,true,true
+garis kuning,true,false,true,true,true,false,true,false,false,true,true,false,true,true,true,false
+daun mengecil,true,false,true,false,false,true,false,true,true,true,true,true,true,false,false,true
+garis kuning,false,false,true,true,false,true,false,true,true,false,false,true,true,true,false,true
+tajuk,true,true,false,false,true,true,true,false,true,false,true,false,false,true,false,true
+busuk buah,false,true,false,true,true,false,true,false,true,false,false,true,false,false,false,true
+daun mengecil,false,false,false,true,true,true,false,true,true,false,true,true,false,false,true,true
+busuk buah,true,false,true,false,false,true,true,false,false,false,false,false,false,true,false,false
+busuk buah,true,true,false,true,true,true,false,false,false,false,false,true,false,true,false,false
+busuk pangkal batang,false,true,true,true,false,true,true,true,false,false,false,false,true,false,false,false
+busuk buah,false,false,true,true,true,true,true,true,true,true,true,false,true,true,false,false
+daun mengecil,false,true,true,false,true,false,true,false,false,true,false,true,false,false,false,true
+busuk kuncup,true,true,false,true,false,false,true,false,true,false,true,true,true,false,false,false
+anthracnose,true,true,true,false,false,false,false,true,true,false,true,true,true,true,false,false
+busuk buah,false,true,false,true,false,false,false,true,true,false,false,true,true,true,true,false
+busuk buah,true,false,false,false,true,true,false,false,true,false,false,false,false,false,true,false
+busuk buah,false,false,true,false,true,true,false,true,true,false,true,false,false,true,false,false
+daun mengecil,false,false,true,false,true,false,true,false,false,false,false,false,true,false,true,false
+busuk pangkal batang,false,true,false,false,true,false,true,true,false,false,false,false,false,true,true,true
+busuk buah,true,true,false,false,true,true,true,false,true,true,false,true,true,false,true,true
+daun mengecil,true,true,false,false,true,true,false,true,false,false,true,false,true,false,false,true
+daun mengecil,true,true,false,false,false,false,false,true,true,true,true,false,false,false,true,false
+daun mengecil,true,true,false,true,false,true,false,false,false,false,true,true,false,true,true,false
+anthracnose,false,false,false,false,false,false,true,false,false,false,false,false,false,false,true,false
+daun mengecil,true,false,false,true,false,true,true,true,true,false,false,true,false,true,true,true
+garis kuning,false,false,false,false,false,false,false,false,true,false,true,true,true,false,true,false
+busuk pangkal batang,true,true,true,true,false,false,false,true,true,false,false,false,false,true,false,true
+garis kuning,true,true,false,true,false,true,true,true,false,false,true,true,false,true,true,false
+anthracnose,true,true,true,false,true,false,true,true,true,false,true,true,true,true,true,true
+daun mengecil,true,true,true,false,true,false,true,false,true,false,true,false,true,true,false,true
+busuk kuncup,true,true,false,false,true,false,true,false,false,false,true,false,false,false,false,false
+tajuk,true,true,true,true,true,false,true,true,true,false,true,true,true,true,false,false
+busuk akar sawit,true,true,true,false,true,false,true,false,true,true,false,false,true,false,true,false
+tajuk,false,false,true,true,false,false,true,false,false,true,false,false,false,false,true,true
+busuk buah,false,false,false,false,true,true,false,true,false,true,true,true,true,true,false,false
+busuk kuncup,false,false,true,true,true,true,false,true,true,false,false,false,false,false,true,false
+busuk buah,true,false,true,true,false,true,false,true,true,true,true,false,false,true,false,false
+garis kuning,true,false,true,false,true,false,false,true,false,true,true,false,false,true,true,false
+busuk buah,true,true,false,true,false,false,true,true,true,true,false,false,false,true,true,false
+anthracnose,false,false,false,false,true,false,false,false,false,false,true,true,true,true,true,true
+busuk pangkal batang,true,false,true,false,true,true,true,false,false,true,false,false,true,true,true,false
+tajuk,true,true,true,true,true,false,true,false,false,true,false,true,true,false,false,true
+busuk buah,false,false,true,true,false,true,false,false,true,true,true,false,false,false,false,false
+busuk akar sawit,false,true,false,false,false,false,false,false,false,true,false,true,false,false,true,true
+busuk pangkal batang,false,true,false,true,false,true,true,false,true,true,true,true,false,false,false,false
+tajuk,true,true,false,false,false,true,false,true,true,true,false,false,true,true,false,false
+garis kuning,true,false,false,true,false,false,false,false,false,false,true,true,false,false,true,false
+busuk kuncup,true,true,false,true,false,false,false,false,false,false,false,false,true,true,true,true
+busuk buah,false,false,true,false,false,false,false,true,true,true,false,true,false,true,true,false
+garis kuning,false,true,false,false,false,true,true,true,true,false,true,false,true,false,false,true
+anthracnose,true,true,true,true,true,true,false,false,true,false,true,false,true,false,true,false
+busuk kuncup,true,false,false,false,true,false,true,false,false,false,false,true,true,false,false,false
+busuk buah,true,false,false,true,true,true,true,false,true,false,true,true,true,false,false,true
+daun mengecil,false,true,false,true,true,true,false,false,true,true,true,false,true,true,true,true
+tajuk,false,false,true,false,true,true,true,false,false,true,true,false,true,true,false,true
+busuk kuncup,false,false,false,true,true,true,true,true,false,true,false,false,false,true,false,true
+anthracnose,false,true,true,true,false,true,false,false,true,false,false,true,false,false,false,false
+busuk akar sawit,true,false,true,true,false,false,true,true,false,false,true,true,true,true,false,false
+busuk akar sawit,true,false,true,false,true,false,false,true,false,true,true,true,false,true,false,false
+daun mengecil,true,true,true,false,false,false,true,false,true,false,false,false,false,false,true,true
+busuk kuncup,false,false,false,false,false,false,true,true,false,false,true,true,true,true,false,false
+anthracnose,true,false,true,false,false,true,true,true,false,false,true,false,true,false,true,false
+garis kuning,false,false,false,true,false,false,true,true,true,false,false,false,true,true,true,false
+tajuk,true,false,false,false,true,true,false,true,true,false,true,false,false,true,true,true
+tajuk,true,true,false,true,true,false,false,false,true,true,true,true,true,true,false,true
+tajuk,false,false,false,false,false,true,false,false,true,false,false,false,false,true,false,false
+busuk pangkal batang,false,true,false,true,true,true,true,true,true,false,true,false,true,false,false,false
+busuk kuncup,false,false,true,true,false,false,false,true,false,true,false,false,false,true,false,false
+busuk buah,false,false,false,false,false,true,false,true,true,true,true,true,false,true,false,false
+busuk kuncup,false,true,false,true,true,true,false,false,true,true,true,false,false,false,true,true
+garis kuning,true,false,false,false,false,true,false,false,false,false,false,true,true,false,false,false
+anthracnose,false,true,false,true,true,false,false,false,true,false,false,true,false,false,true,true
+busuk kuncup,true,false,true,true,true,true,true,true,false,true,true,false,false,false,false,true
+garis kuning,true,false,false,true,true,false,true,false,true,true,false,true,true,false,true,false
+daun mengecil,false,true,false,false,true,true,true,true,false,false,false,true,false,true,true,true
+busuk akar sawit,false,true,true,true,false,true,true,true,false,true,false,false,true,true,false,true
+busuk akar sawit,false,false,true,false,true,false,true,true,false,false,false,true,false,false,false,true
+garis kuning,false,true,false,false,true,true,true,true,true,true,true,false,false,false,true,true
+tajuk,false,true,false,true,false,false,true,false,false,true,true,false,false,false,true,false
+busuk kuncup,true,true,false,false,true,false,false,true,false,true,false,false,true,false,false,false
+busuk buah,true,true,true,true,false,true,true,false,false,false,true,false,false,false,false,true
+busuk akar sawit,false,true,false,true,true,true,true,true,true,true,false,true,true,true,true,false
+busuk akar sawit,false,false,false,true,false,true,false,false,true,false,false,true,true,false,true,true
+garis kuning,false,true,true,false,false,true,false,true,true,false,true,true,true,true,false,true
+daun mengecil,true,true,true,true,true,true,true,false,true,true,true,false,false,false,false,false
+garis kuning,true,false,false,true,false,true,true,true,false,true,false,true,true,true,false,false
+daun mengecil,true,false,false,false,true,false,true,true,true,false,false,true,false,false,true,true
+tajuk,true,false,true,true,true,true,true,true,true,false,true,false,false,false,false,true
+busuk pangkal batang,false,false,true,false,false,true,false,true,true,false,false,false,true,false,false,true
+busuk kuncup,true,false,true,true,true,false,true,true,true,true,false,true,true,true,true,true
+daun mengecil,false,true,false,false,false,true,true,true,false,true,true,false,false,true,true,false
+anthracnose,true,false,false,true,false,true,false,true,false,true,false,false,true,true,false,true
+busuk kuncup,true,false,false,true,false,false,false,false,false,false,true,false,false,true,true,true
+daun mengecil,false,false,true,false,false,false,false,true,false,true,false,true,false,false,false,false
+busuk akar sawit,true,true,false,true,false,false,false,false,false,false,true,true,true,false,false,false
+busuk buah,false,true,true,false,false,true,true,true,true,true,true,false,true,false,false,false
+busuk pangkal batang,false,false,false,false,true,false,true,true,false,true,false,false,false,true,true,false
+busuk kuncup,false,false,false,true,true,true,false,true,true,true,false,false,false,true,true,false
+busuk buah,false,false,true,true,false,false,false,true,false,false,true,false,true,true,false,false
+busuk akar sawit,true,true,true,false,false,true,false,true,false,true,true,true,false,false,false,true
+busuk kuncup,false,false,false,true,false,true,true,true,false,true,false,true,false,true,false,false
+busuk pangkal batang,false,false,true,true,false,false,false,true,true,false,false,true,false,true,true,false
+busuk pangkal batang,true,true,false,false,false,false,true,false,false,false,false,false,false,true,false,true
+garis kuning,false,false,true,false,false,false,true,true,true,true,false,true,false,true,true,false
+anthracnose,false,false,false,false,true,true,true,false,false,true,true,false,false,false,true,false
+busuk akar sawit,true,false,true,true,false,false,false,true,true,true,true,true,false,false,true,true
+busuk buah,true,true,true,false,false,true,true,false,true,false,true,false,true,false,true,true
+busuk akar sawit,true,false,false,true,true,true,true,true,true,true,false,false,true,true,true,true
+busuk buah,false,false,false,false,false,false,true,true,false,true,true,true,false,false,false,true
+busuk akar sawit,true,true,false,false,true,false,true,false,true,true,true,true,false,false,false,false
+busuk pangkal batang,true,true,true,false,false,true,true,false,false,true,false,false,false,false,false,true
+anthracnose,true,false,false,false,true,true,false,false,false,true,true,true,false,false,false,false
+anthracnose,false,true,false,false,true,true,false,false,true,false,true,false,true,false,false,true
+busuk kuncup,false,true,false,false,true,false,false,false,false,true,false,true,false,false,false,false
+busuk akar sawit,true,true,false,true,true,false,true,true,false,true,false,false,true,true,true,true
+busuk akar sawit,false,false,false,false,false,true,false,true,true,true,true,false,true,true,true,true
+busuk buah,false,true,true,false,true,false,true,false,true,false,true,false,true,true,true,false
+anthracnose,false,false,false,true,true,true,false,false,true,false,false,false,false,false,true,true
+daun mengecil,true,false,true,true,false,false,true,true,true,true,true,false,true,true,false,false
+busuk buah,true,false,true,false,true,true,true,false,true,true,false,false,true,false,true,true
+busuk buah,false,false,false,false,true,false,true,true,true,true,false,false,true,false,false,true
+busuk akar sawit,true,true,false,true,false,true,true,true,true,false,true,true,false,false,false,false
+anthracnose,true,false,true,false,true,true,true,false,false,true,false,true,false,false,false,true
+daun mengecil,false,true,false,true,true,true,true,false,false,true,false,true,false,true,true,false
+busuk buah,true,true,true,true,true,true,false,false,true,false,false,false,true,true,false,true
+busuk buah,true,false,false,false,true,false,true,true,true,false,false,false,true,true,true,true
+busuk buah,true,true,true,false,true,true,true,true,true,true,false,true,false,false,false,true
+busuk kuncup,false,true,false,true,false,true,false,false,true,false,true,true,true,true,true,false
+busuk kuncup,false,true,false,true,false,true,false,false,false,true,false,true,true,true,false,true
+busuk kuncup,false,true,true,true,true,false,true,false,false,false,true,true,false,false,true,false
+tajuk,false,false,false,true,true,false,true,false,true,false,false,false,true,true,false,false
+tajuk,false,false,true,false,false,false,false,true,false,false,true,false,false,false,true,true
+garis kuning,true,true,true,true,false,false,false,false,true,false,true,true,false,false,true,true
+busuk kuncup,false,false,false,false,true,true,true,true,false,true,true,false,false,true,false,true
+daun mengecil,false,true,false,false,true,true,false,true,false,true,false,false,true,true,true,true
+busuk kuncup,true,false,false,true,false,false,true,true,false,false,false,true,true,true,false,false
+garis kuning,false,false,false,true,true,false,true,false,false,false,true,false,true,true,true,true
+busuk pangkal batang,false,true,false,false,false,false,false,true,true,true,false,false,false,false,true,true
+busuk kuncup,true,true,true,false,false,true,true,false,true,false,true,false,true,true,true,true
+daun mengecil,true,true,false,true,false,true,false,false,true,false,false,true,false,false,false,false
+anthracnose,true,true,false,false,false,true,false,false,false,false,false,false,true,true,true,true
+busuk akar sawit,false,false,false,true,false,true,false,true,true,true,false,true,true,true,false,true
+daun mengecil,true,false,true,true,true,true,true,false,false,true,false,false,false,false,false,true
+busuk kuncup,false,false,false,true,false,false,false,true,false,false,true,false,false,false,false,false
+tajuk,false,false,true,true,true,true,false,false,true,true,true,false,true,true,false,false
+busuk pangkal batang,false,true,false,false,true,false,true,true,true,true,true,true,false,false,false,true
+busuk buah,false,false,false,true,false,false,false,false,true,false,false,false,false,true,false,true
+garis kuning,false,false,true,true,true,true,false,true,true,false,true,true,true,false,false,true
+garis kuning,true,true,false,true,false,false,false,true,true,false,false,false,false,true,false,false
+daun mengecil,true,true,true,false,true,true,true,true,true,false,false,false,true,true,false,false
+busuk akar sawit,false,true,false,true,false,false,true,true,true,false,true,true,true,true,true,false
+daun mengecil,false,false,true,false,true,true,false,true,true,true,false,true,false,true,false,false
+busuk akar sawit,false,false,true,true,false,true,true,false,true,true,true,true,true,false,false,false
+busuk akar sawit,false,true,true,false,true,true,true,false,true,false,false,true,false,true,false,false
+busuk pangkal batang,false,false,true,true,false,false,false,true,false,false,false,false,false,true,true,true
+tajuk,true,true,false,true,true,true,false,true,false,true,false,false,true,true,false,false
+daun mengecil,false,true,false,false,true,true,false,false,true,true,true,true,true,true,true,true
+daun mengecil,true,false,true,false,true,true,false,true,true,true,true,false,true,true,true,true
+busuk buah,false,false,false,false,true,false,false,false,false,false,false,true,false,true,false,false
+garis kuning,false,true,false,false,true,true,true,false,true,true,true,true,true,true,true,false
+daun mengecil,true,true,false,false,false,true,true,false,true,true,false,false,false,true,true,true
+busuk buah,false,true,false,false,false,false,true,true,false,false,false,true,false,true,true,false
+busuk akar sawit,true,false,true,true,false,true,true,false,true,true,false,false,false,true,true,false
+daun mengecil,false,true,false,false,true,false,true,false,false,false,false,false,false,true,true,true
+busuk pangkal batang,true,false,false,false,false,false,true,true,true,false,true,true,true,false,true,true
+busuk buah,false,false,true,false,false,false,true,true,false,false,true,true,false,true,false,true
+tajuk,false,true,true,false,true,false,true,false,false,false,true,false,true,true,true,false
+busuk buah,true,true,false,true,true,true,true,false,true,false,false,false,false,true,false,false
+busuk pangkal batang,true,true,false,false,false,true,true,false,false,false,true,false,true,true,true,true
+daun mengecil,true,true,true,true,true,false,true,true,false,false,false,false,true,true,false,false
+anthracnose,false,true,true,true,false,false,false,false,false,false,false,true,true,true,false,false
+anthracnose,false,true,false,true,true,false,false,true,true,false,true,true,false,true,false,true
+busuk akar sawit,true,true,true,false,true,false,true,false,false,true,true,true,true,false,false,false
+daun mengecil,false,false,true,true,true,false,false,false,false,false,true,false,false,false,false,false
+busuk buah,true,true,false,false,true,false,false,false,true,false,false,true,false,true,false,true
+busuk buah,false,true,true,true,false,false,false,false,false,false,false,false,true,true,true,false
+anthracnose,true,true,false,true,true,true,true,false,false,true,false,false,false,false,false,true
+tajuk,true,true,true,false,true,true,false,true,true,false,false,false,true,false,true,false
+busuk buah,true,false,true,true,false,true,true,true,true,true,false,true,false,true,true,false
+anthracnose,true,false,false,false,false,false,false,false,false,true,true,false,true,true,true,true
+tajuk,true,true,true,false,true,false,false,true,false,true,false,true,true,true,true,false
+busuk kuncup,false,true,true,false,false,false,true,true,true,true,true,false,false,true,true,true
+anthracnose,false,false,false,true,true,false,true,true,false,false,true,true,false,false,true,true
+garis kuning,true,true,true,false,false,false,true,false,true,true,true,true,false,false,false,true
+garis kuning,true,true,false,false,true,true,true,false,true,false,false,true,false,false,false,true
+busuk buah,false,true,false,true,true,false,false,true,true,false,true,false,true,false,true,false
+tajuk,true,false,false,true,true,false,true,false,true,true,true,true,true,true,true,false
+anthracnose,true,false,true,false,false,false,true,false,true,false,false,true,true,true,true,true
+garis kuning,false,true,false,false,false,false,true,true,true,false,true,true,false,false,false,true
+busuk buah,false,false,false,true,false,false,true,true,true,true,false,false,false,false,true,true
+busuk kuncup,false,false,false,false,true,true,true,true,false,true,false,true,true,true,true,true
+daun mengecil,true,true,false,true,true,false,true,true,true,true,true,false,false,false,true,false
+busuk buah,true,false,false,false,true,false,true,false,false,true,true,true,true,true,true,false
+busuk kuncup,false,false,true,true,false,false,false,true,false,false,false,false,false,true,true,true
+daun mengecil,true,true,false,true,false,false,false,true,false,false,true,true,false,false,false,false
+daun mengecil,false,false,false,false,true,true,false,true,false,false,true,false,true,false,true,true
+garis kuning,true,true,true,false,false,true,false,false,false,false,true,true,false,false,false,true
+busuk buah,true,true,true,false,true,false,false,false,false,false,true,true,true,true,true,false
+busuk akar sawit,true,false,false,false,false,false,true,false,false,true,true,false,true,false,false,true
+busuk buah,false,false,false,true,false,false,false,false,false,true,false,false,false,true,false,true
+busuk kuncup,false,false,true,true,true,true,false,false,false,true,true,true,false,true,true,true
+busuk kuncup,false,true,false,false,false,true,true,false,true,false,false,true,true,true,true,true
+busuk pangkal batang,false,true,true,false,false,true,true,false,true,false,true,false,false,true,false,true
+tajuk,true,false,false,false,true,false,true,false,true,true,false,false,false,false,true,true
+anthracnose,true,true,true,false,true,true,true,false,false,true,true,false,true,true,false,true
+anthracnose,true,false,true,true,false,false,true,true,true,true,true,true,false,false,false,false
+garis kuning,true,true,false,true,false,true,true,false,false,false,false,false,true,true,true,true
+busuk akar sawit,false,true,true,false,true,true,true,false,true,false,true,true,false,false,false,false
+garis kuning,false,true,true,false,true,true,true,true,false,false,false,true,true,false,false,false
+busuk akar sawit,false,true,false,true,false,true,false,false,true,true,true,false,false,false,false,true
+busuk akar sawit,false,false,true,false,true,true,true,false,true,true,false,true,false,false,false,true
+busuk kuncup,true,false,false,true,false,false,true,true,true,true,false,false,true,false,false,true
+anthracnose,true,false,true,false,true,false,false,true,true,true,true,false,false,false,false,true
+busuk akar sawit,true,true,false,false,false,true,true,true,true,false,true,true,true,true,true,true
+daun mengecil,true,false,false,false,true,false,false,true,false,false,true,false,false,false,false,false
+busuk pangkal batang,false,false,true,false,true,true,true,false,false,true,false,true,true,false,true,true
+busuk pangkal batang,false,false,false,true,true,false,true,true,false,false,true,true,false,false,false,true
+tajuk,false,false,true,true,false,false,false,true,true,true,true,false,false,true,false,false
+tajuk,false,false,false,true,true,false,true,false,true,true,true,true,true,false,false,false
+busuk buah,false,true,false,false,true,true,true,false,false,false,true,false,true,false,false,false
+tajuk,true,true,false,false,true,true,true,false,false,true,true,false,true,false,false,false
+daun mengecil,true,false,true,true,false,true,true,true,true,true,true,false,true,false,true,false
+busuk buah,false,false,false,true,true,false,false,true,false,true,true,false,false,true,false,true
+busuk akar sawit,false,false,true,false,false,true,true,false,true,false,false,true,true,true,false,false
+tajuk,true,false,false,true,true,false,true,false,true,false,false,false,false,false,true,true
+anthracnose,false,true,false,false,false,true,true,false,false,false,false,true,false,true,false,false
+garis kuning,true,false,true,false,true,false,true,true,true,false,false,false,true,true,true,true
+tajuk,false,false,false,false,true,true,false,true,true,false,false,true,false,false,true,false
+daun mengecil,false,false,true,true,true,true,false,true,false,false,true,false,true,false,false,true
+garis kuning,true,false,false,false,true,false,true,true,false,true,true,false,false,true,false,false
+busuk kuncup,true,false,false,true,true,false,true,true,false,false,true,true,true,false,true,true
+busuk kuncup,false,true,true,true,false,false,true,true,false,false,true,false,false,true,true,true
+anthracnose,true,false,false,true,false,false,true,false,true,true,false,false,true,false,false,false
+tajuk,true,true,true,false,false,true,false,true,false,true,false,true,false,true,false,true
+anthracnose,false,true,true,true,true,false,false,false,false,true,false,true,false,true,false,false
+tajuk,true,true,true,false,true,true,true,true,true,false,true,false,false,false,false,true
+tajuk,false,true,false,false,false,true,false,false,false,false,false,true,false,true,false,false
+daun mengecil,true,false,true,false,false,false,false,true,true,true,false,true,true,false,false,true
+daun mengecil,false,true,false,true,true,true,true,false,true,true,true,true,false,false,false,false
+busuk pangkal batang,false,true,false,false,true,false,false,true,true,true,true,false,false,true,true,true
+garis kuning,false,true,false,true,true,false,true,false,false,true,false,false,false,false,false,true
+busuk akar sawit,false,false,true,false,true,false,true,false,true,false,false,true,false,true,true,false
+busuk pangkal batang,false,true,false,true,false,false,false,true,true,false,true,false,false,false,true,false
+tajuk,false,false,true,false,true,true,true,false,true,false,true,false,true,true,false,true
+busuk pangkal batang,true,true,true,false,true,false,false,true,true,true,false,true,false,false,true,false
+busuk buah,false,false,true,true,true,false,false,true,false,true,true,false,false,false,false,false
+busuk akar sawit,false,true,false,false,false,false,false,false,false,true,true,true,true,true,false,true
+tajuk,false,false,false,false,false,false,true,false,false,false,true,false,true,false,true,true
+tajuk,false,true,true,true,false,false,false,false,true,false,true,false,false,false,true,true
+busuk buah,true,true,false,true,true,false,false,false,false,true,true,true,false,true,false,false
+daun mengecil,false,false,true,true,false,false,false,false,false,false,false,false,false,false,false,true
+busuk buah,false,false,true,true,true,true,false,true,true,true,true,true,true,false,true,false
+daun mengecil,true,true,false,true,false,false,true,false,false,false,false,false,true,false,true,true
+busuk buah,true,false,false,false,true,true,false,true,false,false,true,false,false,false,false,true
+busuk pangkal batang,true,true,false,false,false,false,true,true,false,true,false,false,false,true,true,true
+busuk akar sawit,false,false,false,false,false,false,false,false,true,false,false,false,true,false,true,true
+garis kuning,true,true,false,true,true,false,true,false,false,true,true,false,true,false,false,true
+busuk buah,true,false,true,false,true,true,false,false,false,false,true,true,false,true,false,false
+anthracnose,true,true,false,false,false,true,true,true,false,false,true,true,false,false,false,true
+garis kuning,false,false,false,false,false,false,true,true,false,false,true,true,false,true,false,true
+busuk kuncup,false,false,true,true,true,true,false,true,true,false,false,false,true,false,true,true
+daun mengecil,false,true,false,true,false,false,false,true,true,false,true,true,true,false,true,false
+busuk buah,true,false,true,false,true,true,true,true,true,false,true,false,false,false,true,false
+garis kuning,false,false,false,false,false,false,false,false,true,false,true,false,false,true,false,true
+anthracnose,false,false,false,false,true,true,true,true,true,true,false,false,true,true,false,false
+daun mengecil,true,false,false,false,false,false,true,false,true,false,true,true,false,false,false,false
+garis kuning,false,true,false,false,false,true,true,true,false,true,true,true,true,true,true,false
+busuk akar sawit,false,true,false,false,true,false,false,false,false,false,false,true,true,false,true,false
+garis kuning,true,true,true,true,true,false,true,false,false,true,false,false,false,true,false,false
+daun mengecil,true,true,true,false,false,false,false,false,true,true,false,false,true,false,false,true
+garis kuning,false,false,true,true,false,false,false,false,false,true,false,false,false,true,true,false
+busuk akar sawit,false,true,true,true,false,true,false,true,false,false,true,false,true,true,true,true
+tajuk,false,false,true,true,false,false,false,true,true,true,false,false,true,true,true,false
+busuk kuncup,false,true,false,false,true,false,true,false,true,true,true,false,true,false,true,true
+busuk buah,false,false,false,true,false,true,false,true,false,false,false,true,true,false,false,false
+anthracnose,false,false,true,false,false,true,true,false,true,true,true,true,false,true,true,false
+busuk akar sawit,false,true,false,false,true,false,false,true,false,true,false,true,false,false,true,false
+busuk pangkal batang,true,false,true,true,true,true,false,true,true,false,false,false,true,false,false,false
+daun mengecil,false,false,false,false,true,true,true,true,true,true,true,true,false,false,false,false
+anthracnose,true,true,true,true,false,true,true,false,false,false,true,true,false,false,false,true
+busuk kuncup,false,false,false,true,true,false,false,true,false,true,true,false,false,false,true,false
+daun mengecil,false,false,false,false,true,false,false,false,true,true,true,true,true,false,true,false
+garis kuning,false,false,false,false,false,false,false,false,true,false,false,false,false,true,false,false
+daun mengecil,false,false,true,true,true,true,false,true,false,false,false,false,false,false,false,false
+daun mengecil,true,true,true,false,true,false,false,true,true,false,true,true,true,true,true,false
+busuk kuncup,true,false,false,true,true,false,false,false,false,false,true,false,false,false,false,false
+busuk buah,false,false,true,true,true,true,false,true,true,false,false,true,false,true,false,true
+busuk buah,true,true,true,true,false,false,false,false,true,false,false,true,true,false,true,true
+garis kuning,false,true,false,true,false,false,true,false,true,true,false,true,true,true,false,false
+anthracnose,false,true,true,true,false,false,false,true,false,true,false,false,true,false,true,true
+tajuk,false,false,false,false,false,false,false,true,false,false,false,true,false,true,true,true
+busuk kuncup,true,true,false,false,false,true,false,false,false,true,false,false,true,false,true,true
+busuk buah,true,true,false,true,false,true,false,false,true,true,true,true,true,false,true,false
+tajuk,true,false,true,false,false,false,false,false,true,true,false,false,true,true,false,false
+busuk kuncup,false,true,true,true,true,true,false,false,false,false,false,false,false,false,true,false
+anthracnose,true,true,true,false,true,false,false,true,true,false,false,false,false,true,true,false
+busuk akar sawit,true,false,true,true,false,true,true,false,false,true,false,false,true,false,false,true
+anthracnose,true,true,false,true,true,false,false,true,false,true,false,false,true,true,true,true
+anthracnose,false,true,true,true,true,false,true,false,true,false,true,true,true,false,false,true
+tajuk,false,true,true,false,true,false,false,false,false,true,false,false,true,false,false,false
+anthracnose,false,false,false,false,true,true,true,false,false,true,true,false,true,false,false,true
+busuk kuncup,false,true,false,true,false,false,false,true,true,true,false,false,true,false,true,false
+busuk akar sawit,true,false,true,false,true,true,true,false,false,false,false,false,false,false,true,true
+anthracnose,true,true,false,false,false,true,true,false,false,true,true,false,true,false,true,true
+busuk pangkal batang,true,true,false,true,true,true,true,true,true,false,true,false,false,true,true,false
+busuk pangkal batang,true,true,true,false,false,true,true,true,false,false,false,true,true,true,false,false
+busuk buah,false,false,true,true,false,true,true,false,false,false,true,true,false,true,true,true
+garis kuning,false,true,false,true,true,false,false,true,false,false,false,true,true,false,false,true
+busuk buah,true,false,false,true,true,false,false,true,true,true,false,true,true,false,true,true
+tajuk,false,false,true,false,true,false,false,true,false,false,false,true,true,false,true,true
+tajuk,true,true,false,true,false,false,true,true,false,false,false,false,true,true,false,false
+busuk kuncup,false,true,false,true,false,true,true,true,true,false,true,false,true,true,true,false
+garis kuning,true,true,true,false,false,false,true,true,true,false,false,false,true,false,true,true
+busuk buah,true,true,false,true,false,false,false,false,false,true,true,true,true,false,true,false
+anthracnose,false,true,true,true,true,true,true,true,false,true,true,false,true,false,false,true
+busuk akar sawit,true,true,true,true,false,true,true,true,true,true,true,true,false,true,false,false
+busuk buah,true,false,false,false,false,true,true,false,true,true,false,true,true,false,false,true
+busuk buah,false,false,true,false,false,true,false,true,false,false,true,false,true,true,false,false
+anthracnose,true,true,true,true,false,true,false,false,false,false,false,false,true,true,false,true
+daun mengecil,true,true,false,false,true,true,false,false,false,true,true,false,false,true,false,false
+busuk akar sawit,true,true,false,true,false,true,false,false,false,false,true,true,false,false,false,false
+tajuk,true,true,true,false,false,true,true,false,true,true,true,true,false,false,true,true
+anthracnose,true,true,true,false,true,false,true,false,false,true,false,false,false,false,false,false
+busuk buah,false,true,true,false,false,true,false,true,true,true,false,true,false,true,false,false
+garis kuning,true,true,true,true,true,false,false,false,true,true,true,true,true,false,false,false
+busuk kuncup,false,false,true,true,false,false,true,false,false,true,false,false,true,true,true,true
+tajuk,false,false,false,false,true,true,true,false,false,true,false,false,false,false,true,true
+tajuk,true,true,true,true,false,true,true,true,false,false,true,true,false,true,false,false
+busuk buah,true,false,false,false,true,true,true,false,true,false,false,false,true,false,false,false
+busuk pangkal batang,false,false,true,false,true,false,true,false,true,false,false,false,false,false,false,false
+tajuk,false,false,false,false,true,false,true,false,true,false,true,false,false,false,false,false
+busuk pangkal batang,true,true,false,true,true,false,false,true,true,false,false,true,false,false,false,true
+garis kuning,false,true,false,false,false,true,false,true,true,true,false,false,false,false,false,true
+busuk buah,false,true,false,true,true,true,false,true,true,false,false,true,true,false,false,true
+anthracnose,false,false,false,false,false,true,false,true,true,false,false,true,true,false,false,true
+busuk kuncup,false,true,false,false,true,false,true,false,false,false,true,false,false,true,false,false
+daun mengecil,true,true,false,true,false,false,false,false,true,true,false,false,true,false,false,false
+busuk kuncup,false,true,false,true,true,true,true,true,false,false,true,true,true,false,false,false
+busuk akar sawit,true,false,false,true,true,true,false,true,true,false,false,false,false,false,false,false
+tajuk,true,false,true,true,false,false,true,true,false,false,true,false,true,false,true,true
+busuk akar sawit,true,false,true,false,true,false,true,false,false,false,false,false,true,false,true,true
+tajuk,true,false,true,true,false,true,false,true,false,false,true,true,true,false,true,false
+anthracnose,true,false,true,true,true,true,false,false,true,false,false,false,false,false,true,true
+anthracnose,true,true,true,false,true,true,false,true,true,true,false,false,true,false,false,false
+busuk kuncup,false,false,true,true,false,false,false,false,true,true,false,true,false,false,true,true
+busuk kuncup,true,true,true,true,false,false,false,true,false,true,false,false,false,true,true,false
+anthracnose,true,false,false,true,true,false,true,false,false,true,false,false,true,true,true,true
+tajuk,true,true,true,false,true,true,false,true,true,true,false,false,true,false,true,false
+garis kuning,false,false,false,false,false,false,false,false,true,false,true,false,true,true,true,true
+busuk akar sawit,false,false,false,true,true,false,false,true,false,false,false,true,false,false,true,false
+tajuk,false,false,false,true,false,true,false,false,true,false,false,false,true,false,false,true
+anthracnose,false,true,false,true,false,true,true,true,true,false,true,true,false,false,true,false
+anthracnose,false,true,false,true,false,true,true,false,true,false,false,true,false,true,true,true
+tajuk,false,true,true,false,false,true,false,true,true,true,false,true,false,true,false,true
+busuk akar sawit,true,false,true,false,true,true,false,true,false,true,false,false,true,true,true,false
+tajuk,true,true,true,true,false,true,true,true,true,false,false,true,false,true,true,true
+busuk kuncup,false,true,false,false,true,false,true,false,true,true,false,true,false,true,false,true
+busuk buah,true,true,false,true,true,false,true,false,false,true,true,true,false,true,false,false
+busuk pangkal batang,false,false,true,false,false,true,true,false,false,true,false,false,false,true,true,true
+busuk kuncup,true,false,false,true,true,true,false,false,false,true,false,false,false,true,false,false
+busuk kuncup,true,false,true,true,true,true,true,false,false,true,true,false,false,true,true,false
+anthracnose,false,true,true,false,true,true,true,true,false,false,false,false,false,true,true,true
+garis kuning,false,true,true,true,true,true,true,true,false,true,true,false,true,false,true,true
+daun mengecil,false,false,false,false,true,true,false,false,true,true,false,true,false,true,false,false
+daun mengecil,true,true,true,false,true,true,true,true,false,false,false,false,true,true,true,false
+daun mengecil,true,true,true,false,false,true,false,false,true,false,true,true,false,true,false,false
+busuk buah,false,false,false,true,false,false,false,true,false,false,false,true,true,false,true,false
+anthracnose,false,false,false,true,true,false,true,true,true,false,false,false,false,true,true,true
+garis kuning,false,false,false,true,true,false,true,false,true,false,false,true,true,true,false,false
+busuk buah,true,true,false,true,false,true,false,false,false,false,true,true,true,false,true,true
+daun mengecil,false,true,false,false,false,true,false,true,false,true,true,false,true,true,true,true
+busuk pangkal batang,true,false,true,false,false,true,false,true,true,true,true,false,false,true,false,false
+tajuk,false,false,true,true,true,true,true,false,false,false,false,false,false,false,true,true
+busuk pangkal batang,false,true,false,false,false,false,true,true,true,false,false,true,true,true,true,true
+busuk kuncup,true,false,true,true,true,false,false,true,true,false,false,true,false,false,false,true
+tajuk,false,false,true,true,false,true,false,true,false,false,false,true,false,true,false,false
+daun mengecil,true,false,false,true,true,false,true,false,true,false,false,true,true,false,false,true
+busuk pangkal batang,true,true,false,false,false,false,true,false,true,true,false,false,true,false,true,true
+daun mengecil,true,true,false,true,false,true,true,false,false,false,false,false,false,true,true,true
+daun mengecil,true,false,true,false,false,false,false,false,false,true,false,false,true,true,false,true
+garis kuning,true,true,false,false,true,true,false,true,true,true,false,false,false,false,true,false
+garis kuning,true,false,false,false,false,false,false,false,false,true,true,false,false,true,true,false
+daun mengecil,true,true,true,true,true,false,true,false,true,true,true,false,true,false,true,false
+anthracnose,false,true,true,true,true,true,false,true,true,true,false,false,true,true,true,false
+busuk kuncup,false,false,false,false,false,false,false,false,false,true,false,false,true,false,false,true
+tajuk,true,true,false,true,true,true,false,false,false,true,true,true,true,false,true,true
+busuk akar sawit,false,true,false,false,false,true,true,false,true,false,false,true,true,false,true,true
+tajuk,false,true,true,false,false,true,true,false,false,true,false,true,false,false,false,true
+busuk kuncup,false,true,false,false,false,true,false,true,true,false,false,true,false,false,true,true
+busuk akar sawit,false,true,true,true,false,true,false,false,true,true,false,true,true,false,false,true
+tajuk,false,false,true,true,false,true,false,true,true,true,false,true,true,true,true,false
+busuk buah,false,true,false,true,true,false,true,true,false,true,true,true,false,false,false,true
+busuk buah,false,true,false,true,true,true,false,true,false,true,true,false,true,true,true,false
+busuk akar sawit,false,true,true,true,false,true,false,false,false,false,false,true,false,false,true,false
+garis kuning,false,true,false,false,true,true,true,false,false,false,false,true,false,true,false,true
+busuk buah,true,false,false,false,true,false,true,true,true,false,true,true,false,true,true,true
+garis kuning,false,true,false,true,false,false,true,false,false,false,true,true,true,false,false,true
+busuk pangkal batang,false,false,false,true,true,true,false,false,false,true,true,true,true,false,true,false
+busuk pangkal batang,false,false,true,true,false,true,true,true,false,false,false,true,false,false,false,false
+busuk kuncup,false,true,false,false,false,true,true,true,true,true,true,true,false,false,true,false
+busuk kuncup,false,true,false,false,false,false,false,true,false,true,true,true,true,false,true,false
+tajuk,true,false,true,false,true,true,true,false,true,false,false,false,false,false,true,false
+busuk buah,false,true,true,false,true,false,true,true,false,false,false,false,false,false,false,false
+daun mengecil,true,true,false,true,false,false,true,false,true,true,false,true,true,true,true,true
+garis kuning,true,false,true,false,true,false,true,false,true,true,true,false,false,true,true,false
+garis kuning,false,false,true,false,true,true,true,false,true,true,false,false,false,false,true,true
+daun mengecil,true,true,true,true,true,false,true,true,true,false,true,false,true,false,false,false
+garis kuning,true,true,false,true,false,true,false,true,false,false,false,false,false,false,false,true
+busuk buah,true,true,true,false,true,false,true,false,false,false,true,false,true,false,true,true
+anthracnose,true,false,true,true,true,true,true,false,true,true,true,false,true,true,true,false
+busuk akar sawit,false,false,false,true,true,false,false,false,false,false,false,false,true,true,true,true
+daun mengecil,false,false,false,false,false,true,false,true,false,false,true,false,false,true,true,false
+busuk kuncup,true,false,true,true,false,false,true,true,false,false,false,false,false,true,false,false
+tajuk,false,true,true,false,true,false,true,false,true,false,true,false,false,false,false,true
+busuk akar sawit,false,true,true,true,false,true,false,false,true,true,true,false,false,false,true,false
+busuk pangkal batang,true,false,true,true,true,true,true,true,true,true,true,true,true,false,false,true
+daun mengecil,false,true,true,false,false,true,false,true,true,true,false,false,true,true,true,true
+anthracnose,true,false,false,true,true,true,true,true,true,false,true,true,true,false,true,false
+busuk akar sawit,false,true,false,true,false,false,false,false,false,true,false,false,false,false,false,false
+daun mengecil,false,false,true,true,false,false,false,true,false,true,false,false,true,false,true,true
+busuk buah,true,false,true,false,false,true,true,true,true,true,true,false,true,true,true,true
+garis kuning,false,true,true,true,false,true,false,false,true,true,true,true,false,true,false,true
+busuk pangkal batang,false,true,true,true,true,false,true,false,false,true,false,false,true,false,true,true
+daun mengecil,false,false,false,false,false,true,true,false,true,false,true,false,false,true,false,false
+garis kuning,false,false,false,false,true,false,false,true,true,false,true,false,true,false,true,true
+busuk kuncup,false,true,false,false,false,false,false,true,true,true,false,false,true,false,false,false
+busuk kuncup,true,true,false,true,true,false,false,false,true,true,false,false,false,true,false,false
+daun mengecil,false,false,false,false,true,true,true,true,false,true,true,false,true,false,true,false
+tajuk,false,false,false,true,false,true,true,false,true,false,false,false,true,false,false,false
+anthracnose,false,false,true,false,false,true,true,false,false,true,true,false,true,false,false,true
+busuk pangkal batang,false,true,true,true,false,true,true,true,true,true,false,true,false,true,false,true
+daun mengecil,true,true,false,true,false,false,true,true,false,false,false,true,false,false,true,true
+tajuk,true,true,false,true,false,true,true,true,false,false,false,true,false,true,false,true
+busuk akar sawit,false,true,false,true,false,false,true,false,true,false,true,false,true,true,true,true
+busuk akar sawit,true,false,true,true,true,true,false,false,true,false,true,true,true,false,false,true
+anthracnose,false,false,true,true,true,true,false,true,true,false,true,false,false,false,true,true
+busuk kuncup,false,true,false,true,true,true,true,false,true,false,false,false,true,true,false,false
+busuk kuncup,true,true,false,false,false,true,false,true,false,true,false,false,false,true,false,true
+busuk akar sawit,false,false,false,false,false,false,true,true,false,false,true,false,false,true,false,true
+garis kuning,false,false,false,true,true,true,false,true,true,true,false,false,true,true,true,false
+daun mengecil,true,false,true,true,true,false,false,false,true,true,true,true,false,false,false,false
+tajuk,false,false,false,true,true,false,false,false,true,false,true,true,true,false,false,false
+tajuk,false,false,false,false,false,false,false,false,true,true,false,true,false,true,true,true
+busuk akar sawit,true,true,true,false,true,false,false,true,false,false,true,false,true,true,false,true
+daun mengecil,false,false,true,true,true,false,true,true,false,true,false,false,false,true,true,true
+anthracnose,true,false,false,false,false,false,false,false,false,true,true,true,false,false,true,false
+anthracnose,false,true,true,false,false,false,false,true,true,true,false,false,false,false,true,true
+garis kuning,false,true,true,false,false,false,true,false,true,false,true,false,true,true,true,false
+busuk buah,true,true,true,true,true,false,true,true,true,true,true,false,false,false,true,false
+busuk buah,true,true,false,false,false,true,true,true,false,false,true,true,false,true,true,true
+busuk kuncup,true,true,true,false,false,true,false,true,true,true,true,false,false,true,true,true
+tajuk,true,false,false,false,false,false,true,false,true,false,true,false,true,false,true,false
+busuk akar sawit,true,true,false,true,false,true,true,false,true,true,false,false,false,false,false,true
+tajuk,true,false,true,false,true,false,false,false,true,true,true,false,false,true,true,true
+garis kuning,false,false,false,true,true,false,false,true,true,true,true,true,false,true,false,false
+garis kuning,false,true,false,false,false,false,true,true,false,false,false,true,false,false,false,false
+daun mengecil,false,false,false,true,false,true,false,true,true,false,true,false,false,true,true,false
+busuk buah,false,true,false,false,false,false,true,true,true,true,true,true,false,true,false,true
+busuk kuncup,false,true,true,true,true,true,true,false,true,true,false,true,true,true,true,false
+busuk kuncup,false,false,false,false,true,false,false,true,true,true,false,true,true,true,false,true
+busuk buah,false,true,true,false,true,true,false,true,true,true,false,true,true,false,false,false
+garis kuning,true,false,false,true,true,false,true,true,false,false,false,true,false,true,true,true
+busuk kuncup,false,true,false,false,true,false,true,false,false,false,true,false,false,false,true,false
+busuk buah,false,false,false,false,true,false,false,false,false,false,true,true,false,true,false,true
+busuk buah,false,true,true,true,true,true,false,false,true,true,true,false,false,true,true,false
+busuk buah,true,false,false,true,true,false,false,false,false,true,true,false,true,true,false,false
+garis kuning,false,true,true,false,true,true,true,true,true,false,false,false,true,false,true,true
+busuk buah,false,false,true,false,true,false,false,true,true,false,true,false,true,true,true,true
+tajuk,false,false,false,false,true,true,false,true,true,true,false,true,false,true,false,false
+busuk kuncup,false,false,false,true,false,true,true,false,true,true,false,true,false,false,false,true
+busuk kuncup,true,false,true,true,true,true,true,false,false,false,false,false,true,false,true,false
+busuk kuncup,false,false,false,false,true,true,true,true,false,true,true,true,false,true,true,false
+busuk pangkal batang,false,false,false,false,true,false,false,false,false,true,true,true,false,false,true,false
+busuk pangkal batang,true,true,false,false,true,true,false,true,true,true,true,true,true,false,true,false
+busuk pangkal batang,true,false,false,true,true,false,true,true,false,true,true,false,true,false,true,false
+tajuk,true,true,false,false,true,true,true,true,true,false,true,true,false,true,false,true
+tajuk,true,false,true,false,true,false,false,false,false,false,true,true,false,true,false,true
+busuk kuncup,true,false,false,false,true,false,true,false,false,true,false,true,false,false,true,false
+busuk pangkal batang,false,false,true,true,true,true,false,true,false,true,false,false,true,true,false,false
+busuk pangkal batang,false,false,false,false,false,false,false,false,true,true,true,false,false,true,false,true
+busuk pangkal batang,true,true,false,false,true,true,false,true,false,false,true,false,true,true,false,true
+daun mengecil,true,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false
+daun mengecil,true,true,false,true,true,false,true,false,false,false,true,true,false,false,false,true
+busuk kuncup,true,true,true,true,false,true,true,false,true,true,true,false,true,false,false,true
+tajuk,true,false,false,false,false,true,false,false,true,false,true,true,false,true,true,true
+busuk buah,false,true,false,false,true,false,true,false,false,true,false,false,false,false,false,false
+busuk kuncup,true,true,true,false,true,true,true,true,true,true,true,false,false,false,false,false
+daun mengecil,true,true,true,false,true,false,true,true,false,true,false,false,true,true,true,true
+daun mengecil,false,false,true,true,false,true,true,false,true,false,true,true,true,true,false,true
+busuk buah,false,false,true,true,true,true,false,false,true,false,false,true,false,true,true,true
+busuk kuncup,false,false,false,true,false,true,false,false,false,false,false,true,true,false,true,true
+daun mengecil,false,true,false,false,false,false,true,false,true,false,false,true,false,true,true,true
+daun mengecil,false,true,false,false,true,true,true,true,true,false,false,false,true,true,false,false
+busuk buah,true,false,false,false,true,false,true,true,false,true,false,true,false,true,true,false
+anthracnose,true,false,true,true,true,true,true,false,false,true,false,true,true,true,true,true
+busuk akar sawit,false,false,true,false,true,false,true,false,true,true,true,false,true,false,false,false
+garis kuning,false,false,false,true,true,true,false,false,true,true,false,false,true,true,true,true
+busuk pangkal batang,true,false,true,true,true,false,false,false,false,true,false,true,false,true,true,true
+busuk akar sawit,true,false,true,false,false,true,false,false,true,false,true,true,false,false,true,false
+busuk kuncup,true,true,false,false,true,true,true,true,false,true,false,false,true,false,false,false
+busuk akar sawit,false,true,false,true,true,true,false,true,false,true,false,true,true,true,true,true
+busuk pangkal batang,false,false,true,false,false,false,false,false,false,false,true,false,true,false,true,true
+busuk akar sawit,true,true,true,true,true,true,false,false,false,true,false,true,false,false,true,false
+busuk kuncup,true,false,true,true,true,false,true,true,true,false,false,true,false,true,false,true
+anthracnose,true,true,true,false,true,true,true,false,false,false,false,false,true,true,false,false
+daun mengecil,true,false,false,true,false,true,false,false,true,true,false,true,true,false,true,false
+daun mengecil,true,true,true,true,false,false,false,false,false,false,false,false,false,true,true,true
+busuk pangkal batang,false,true,false,true,false,false,false,true,false,true,true,true,true,true,false,false
+busuk akar sawit,false,false,true,false,true,false,true,false,false,false,false,false,false,false,true,false
+garis kuning,true,false,true,false,false,true,true,true,true,false,true,false,false,true,true,false
+garis kuning,true,false,false,false,false,true,true,true,false,true,false,true,true,false,true,true
+busuk pangkal batang,true,true,true,true,false,false,false,true,false,false,true,false,false,false,false,true
+busuk akar sawit,false,false,false,false,false,true,true,true,true,false,true,false,false,false,false,true
+tajuk,false,true,false,false,false,true,false,true,true,false,false,true,false,true,true,false
+busuk pangkal batang,true,false,true,false,false,false,false,false,true,false,false,true,false,true,false,true
+tajuk,false,false,true,true,false,true,false,true,true,false,true,true,false,true,false,true
+busuk akar sawit,true,false,true,false,true,true,true,false,true,false,true,false,false,true,false,false
+busuk kuncup,false,true,true,true,false,true,false,true,false,false,true,false,true,false,false,false
+busuk akar sawit,false,true,true,false,false,true,false,false,true,false,false,false,false,true,false,false
+daun mengecil,true,false,true,false,false,true,true,false,true,true,false,false,true,true,false,false
+busuk pangkal batang,true,false,true,false,true,true,true,true,false,false,true,true,true,false,true,false
+anthracnose,false,false,false,false,true,true,true,true,false,true,true,false,false,false,true,false
+busuk buah,false,true,true,false,true,true,true,false,false,true,false,false,true,false,true,false
+busuk akar sawit,false,true,false,true,false,true,true,false,false,true,false,false,true,false,true,false
+busuk kuncup,false,true,true,false,true,false,false,true,true,false,true,true,false,false,false,false
+daun mengecil,false,true,false,true,true,false,false,false,true,true,false,true,false,false,true,true
+garis kuning,false,false,false,false,false,false,false,true,true,true,false,false,true,false,false,true
+garis kuning,true,false,true,false,false,false,false,false,true,false,true,false,true,true,false,true
+busuk akar sawit,true,true,true,true,true,false,false,true,false,false,true,false,false,true,true,false
+busuk pangkal batang,false,true,false,false,true,true,false,true,false,false,false,false,false,true,false,true
+daun mengecil,false,false,true,true,true,false,true,true,true,true,false,false,false,true,false,false
+busuk buah,false,true,true,false,false,true,false,true,false,true,true,true,true,true,true,false
+daun mengecil,false,true,false,false,true,true,true,true,false,false,true,true,true,false,false,false
+busuk buah,true,false,false,false,true,true,false,false,false,false,true,true,true,true,true,false
+daun mengecil,true,false,true,true,false,true,false,false,true,false,true,false,true,true,false,false
+daun mengecil,false,false,false,true,true,false,true,true,true,false,true,false,true,false,false,false
+tajuk,false,false,true,true,true,false,false,false,true,false,false,true,false,true,true,false
+daun mengecil,true,false,true,true,true,true,true,true,true,true,true,true,false,true,true,true
+busuk kuncup,true,false,true,false,false,true,false,true,false,false,false,true,true,true,true,true
+busuk pangkal batang,true,true,false,false,true,true,true,true,false,false,false,false,true,false,false,true
+garis kuning,false,false,false,false,false,false,true,true,false,false,false,true,true,true,true,false
+busuk buah,false,true,false,true,false,true,false,false,false,false,true,false,false,false,true,false
+busuk akar sawit,true,false,true,true,true,false,false,false,false,true,true,false,true,true,true,true
+busuk kuncup,true,false,false,true,false,false,false,false,false,false,true,true,false,false,false,true
+garis kuning,false,true,true,false,true,true,false,true,true,false,false,false,false,true,true,false
+tajuk,true,true,false,false,false,true,false,true,false,false,true,false,false,true,true,true
+busuk pangkal batang,true,false,false,false,true,false,false,true,true,true,false,false,false,false,true,true
+busuk kuncup,true,false,false,false,false,false,true,true,false,true,false,true,false,false,true,false
+busuk pangkal batang,true,true,true,true,false,false,false,false,false,false,false,false,true,false,false,false
+anthracnose,false,true,false,true,true,true,true,false,false,false,true,false,true,true,true,true
+tajuk,true,false,true,false,false,true,false,false,false,false,false,true,false,true,false,false
+busuk buah,true,false,true,true,false,false,false,false,true,false,true,true,true,false,true,false
+tajuk,true,true,true,true,true,true,true,false,true,false,true,false,true,true,true,true
+anthracnose,false,false,false,false,false,false,true,true,true,true,false,false,true,false,false,true
+tajuk,true,true,true,false,true,false,true,false,true,true,false,true,true,true,true,false
+busuk buah,true,false,false,true,false,true,false,false,true,true,true,false,false,false,true,false
+busuk pangkal batang,true,false,true,false,true,true,false,false,false,false,true,true,true,true,false,false
+busuk akar sawit,false,true,false,false,false,false,false,true,false,true,false,false,true,true,true,false
+tajuk,true,false,false,true,false,false,true,false,false,false,false,false,true,false,true,true
+garis kuning,true,false,true,true,false,true,true,true,false,false,true,true,true,false,true,false
+tajuk,false,false,false,false,true,true,true,false,true,true,false,true,true,false,false,false
+anthracnose,false,false,false,false,false,true,true,true,false,true,true,false,true,false,true,true
+busuk akar sawit,false,true,true,false,false,true,true,true,true,true,true,false,true,false,false,true
+anthracnose,true,false,false,false,false,true,false,true,true,true,false,true,true,true,false,true
+anthracnose,false,false,true,true,true,true,false,false,false,true,false,false,false,true,true,false
+busuk akar sawit,false,false,true,false,true,false,true,true,true,false,false,false,true,true,true,false
+busuk akar sawit,true,true,true,true,true,false,false,true,false,true,true,false,false,false,true,true
+busuk kuncup,false,true,false,false,true,true,false,true,false,true,true,false,true,false,false,true
+busuk buah,false,false,false,true,true,false,true,true,false,false,false,false,true,true,true,false
+tajuk,false,false,false,false,false,false,true,false,false,false,true,false,false,true,true,false
+garis kuning,false,true,false,false,true,true,true,true,false,false,true,true,false,true,true,true
+busuk buah,true,true,true,false,false,false,true,true,false,true,false,true,true,true,true,false
+tajuk,true,true,false,false,false,true,true,false,false,false,true,false,false,true,true,false
+busuk buah,false,true,false,false,false,true,true,true,false,true,true,true,false,false,true,false
+garis kuning,true,true,true,false,true,true,false,false,true,false,false,true,false,true,false,false
+anthracnose,true,false,true,false,true,true,true,true,false,false,true,false,true,false,false,false
+busuk kuncup,true,true,true,false,true,false,false,true,false,true,false,false,false,true,false,false
+garis kuning,false,false,true,true,true,true,true,true,false,true,true,true,true,false,true,false
+anthracnose,true,true,false,false,false,false,true,false,false,true,true,true,false,false,true,true
+busuk buah,false,true,false,false,true,false,false,false,false,true,false,false,true,true,false,true
+anthracnose,true,true,false,false,true,false,true,false,true,true,false,false,true,true,true,true
+busuk akar sawit,true,true,true,true,true,false,false,false,false,false,false,false,true,false,false,true
+busuk akar sawit,false,false,true,true,false,true,true,false,false,false,true,false,true,false,false,true
+busuk akar sawit,true,false,true,true,true,true,false,false,true,false,true,false,true,true,true,false
+busuk buah,true,false,false,false,true,false,false,true,false,true,false,false,true,false,false,false
+busuk akar sawit,false,false,true,true,true,true,true,true,false,true,false,false,false,true,false,false
+busuk akar sawit,true,false,true,false,true,true,false,false,true,true,false,true,false,false,true,true
+anthracnose,false,false,true,false,false,false,true,false,true,false,true,false,false,false,true,false
+garis kuning,true,true,true,false,true,false,false,false,true,false,false,false,true,true,true,true
+garis kuning,false,true,true,true,false,false,true,true,true,true,false,true,false,true,true,true
+anthracnose,true,false,true,false,true,true,true,false,true,true,false,false,false,false,false,false
+busuk pangkal batang,false,true,false,false,false,true,false,true,false,false,false,true,true,false,false,false
+daun mengecil,true,false,false,true,true,false,true,true,true,false,true,true,false,false,false,true
+garis kuning,true,false,true,false,true,true,true,false,false,true,true,true,false,true,false,true
+daun mengecil,true,false,false,true,false,true,true,false,false,false,false,false,true,false,false,false
+tajuk,true,true,true,false,false,false,false,false,false,true,true,false,false,true,false,true
+tajuk,false,false,true,true,true,true,false,true,true,false,true,false,true,false,false,false
+tajuk,true,false,false,true,false,false,false,false,false,true,true,true,false,false,false,false
+busuk kuncup,true,false,false,true,false,false,false,false,true,true,false,false,true,false,true,true
+garis kuning,false,true,false,true,false,true,false,true,true,true,false,true,true,false,false,true
+busuk pangkal batang,true,false,true,true,false,true,true,true,false,true,true,false,true,false,false,false
+busuk buah,false,false,false,true,false,true,false,true,false,true,false,true,true,true,false,false
+busuk kuncup,true,true,true,true,true,false,true,true,true,true,false,false,true,false,false,false
+busuk buah,true,true,true,false,true,false,false,true,false,false,true,false,false,true,false,true
+busuk kuncup,true,true,false,false,false,true,true,false,true,false,false,true,true,true,true,true
+daun mengecil,true,false,true,true,true,false,false,true,false,true,true,true,false,false,true,false
+busuk kuncup,false,true,true,true,false,true,true,false,true,true,false,false,true,false,true,false
+busuk akar sawit,true,true,false,false,false,true,true,true,false,true,false,true,true,false,false,false
+garis kuning,true,false,false,true,true,false,true,true,false,true,false,false,false,false,true,true
+daun mengecil,true,true,false,true,true,false,false,false,false,false,false,true,false,true,false,true
+busuk kuncup,false,true,true,false,false,false,true,false,false,true,true,false,false,true,true,false
+tajuk,true,true,true,false,false,true,false,true,true,true,false,true,true,true,true,true
+daun mengecil,true,false,false,false,true,true,false,false,true,false,false,true,false,false,false,true
+tajuk,false,false,true,true,false,true,false,true,true,true,true,true,false,false,true,false
+busuk pangkal batang,true,true,false,true,false,false,false,false,true,false,false,false,true,true,false,true
+busuk kuncup,true,true,true,false,true,true,true,false,true,true,false,false,false,false,false,false
+busuk akar sawit,true,false,false,true,true,true,false,false,false,true,false,false,false,false,false,true
+busuk kuncup,true,true,false,true,true,true,true,true,false,false,false,true,true,true,false,true
+busuk pangkal batang,true,false,true,true,false,true,false,false,true,true,false,true,false,true,false,true
+garis kuning,false,true,false,false,false,false,false,false,true,true,false,false,false,true,true,true
+busuk buah,false,true,true,true,false,true,false,false,false,true,false,true,false,true,false,true
+daun mengecil,false,true,true,false,true,true,true,false,false,true,false,true,true,false,true,false
+tajuk,false,false,true,true,false,false,true,true,false,false,true,true,false,true,true,false
+tajuk,false,false,true,true,false,false,false,false,false,true,true,true,false,true,true,false
+anthracnose,false,true,true,true,true,false,false,false,true,true,true,false,true,true,false,false
+anthracnose,false,true,false,false,true,false,false,true,true,false,false,false,false,true,false,true
+busuk akar sawit,true,true,true,false,true,false,false,false,false,false,true,false,true,true,true,false
+busuk kuncup,true,true,true,true,true,false,true,false,false,true,false,false,true,false,false,true
+garis kuning,true,true,true,false,true,true,true,true,false,true,false,true,false,false,true,true
+busuk buah,true,false,true,true,false,true,false,true,true,false,true,true,false,true,false,false
+busuk pangkal batang,true,true,false,false,true,true,false,true,false,true,false,false,true,false,false,false
+busuk pangkal batang,true,false,true,true,true,false,true,false,true,true,false,true,true,false,false,true
+busuk pangkal batang,true,false,true,true,true,false,true,true,true,false,false,true,true,false,true,true
+garis kuning,true,false,true,false,false,true,false,true,false,false,true,false,true,true,false,true
+anthracnose,true,true,false,false,false,true,true,false,false,true,false,true,false,false,false,false
+busuk pangkal batang,true,false,true,false,true,false,false,false,true,true,true,true,false,false,true,true
+busuk pangkal batang,false,true,false,true,true,false,true,false,true,false,true,true,false,false,false,false
+busuk pangkal batang,true,true,true,false,false,false,false,false,false,false,true,true,true,false,true,false
+anthracnose,false,true,false,false,false,true,true,true,false,true,true,false,true,true,true,false
+busuk akar sawit,false,false,true,true,true,false,false,false,false,true,true,true,true,false,false,false
+busuk pangkal batang,false,false,true,false,true,false,true,false,false,false,true,false,true,true,false,false
+busuk buah,false,true,false,false,false,true,false,true,true,true,true,true,true,false,false,false
+garis kuning,true,false,true,true,true,true,true,true,false,false,true,true,false,false,true,false
+busuk pangkal batang,true,false,true,true,false,true,true,true,false,false,false,true,false,true,false,false
+busuk kuncup,false,true,false,false,false,false,false,true,false,true,true,true,false,false,true,true
+busuk akar sawit,true,false,false,true,false,true,false,false,true,false,false,true,false,false,false,true
+busuk pangkal batang,false,false,true,true,true,false,false,true,false,true,true,false,true,false,false,false
+busuk akar sawit,true,true,true,false,true,true,true,true,false,true,false,true,true,true,true,false
+busuk kuncup,true,false,true,true,false,false,false,false,false,true,true,false,true,false,true,true
+daun mengecil,false,true,false,false,false,false,true,true,false,false,false,true,true,true,true,true
+busuk kuncup,true,false,true,true,false,false,true,false,true,false,true,true,true,false,true,true
+tajuk,true,false,false,false,true,false,false,true,true,false,true,false,true,true,false,false
+anthracnose,false,false,false,false,false,false,true,true,false,true,true,true,false,false,false,false
+busuk akar sawit,false,true,false,true,false,false,false,true,true,true,true,true,true,true,true,true
+garis kuning,true,false,true,false,false,true,true,false,false,false,true,true,false,false,false,false
+tajuk,true,true,true,false,true,true,false,false,true,false,true,false,true,false,true,false
+busuk kuncup,false,false,true,false,true,true,false,false,true,false,false,true,true,true,true,false
+garis kuning,false,false,false,false,true,true,false,true,true,false,true,true,false,true,true,false
+daun mengecil,true,true,true,false,true,true,false,false,false,false,true,false,false,false,false,true
+busuk kuncup,false,true,false,true,false,true,false,false,false,false,true,true,false,false,true,true
+tajuk,true,false,true,true,true,false,false,true,false,true,true,true,true,true,true,false
+busuk pangkal batang,true,false,true,true,false,true,false,true,true,true,false,false,false,false,true,true
+busuk kuncup,false,false,true,true,true,true,true,true,false,true,false,false,false,true,false,true
+busuk kuncup,false,true,true,true,true,false,true,false,true,true,true,false,true,false,true,false
+garis kuning,true,true,true,false,true,false,false,true,true,false,false,true,false,true,true,true
+anthracnose,false,false,true,true,true,false,true,false,true,false,false,true,false,false,true,false
+daun mengecil,false,false,true,false,true,true,true,true,false,true,false,false,true,true,true,false
+daun mengecil,false,false,false,true,true,true,false,true,false,true,true,false,false,true,false,false
+anthracnose,false,true,true,false,false,true,false,true,false,false,false,true,true,true,true,true
+anthracnose,true,true,true,true,true,true,false,true,false,true,false,true,false,true,false,true
+garis kuning,false,true,false,false,false,true,false,true,false,true,false,true,false,false,false,true
+busuk akar sawit,true,false,false,true,true,false,false,false,false,false,false,false,true,false,true,false
+tajuk,false,false,true,false,true,false,false,false,true,false,true,true,true,true,true,false
+busuk kuncup,true,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false
+daun mengecil,true,false,false,true,true,true,false,false,false,true,true,false,true,false,false,false
+anthracnose,true,false,true,false,false,false,false,false,false,true,true,true,false,false,true,true
+busuk buah,false,false,false,false,false,false,true,true,false,false,true,true,true,false,true,true
+tajuk,true,true,false,false,false,true,false,true,false,true,true,false,false,false,true,false
+anthracnose,true,false,false,false,false,true,false,false,false,true,false,false,true,true,false,true
+garis kuning,false,true,true,false,true,false,true,false,true,true,true,false,false,true,true,false
+busuk akar sawit,true,false,false,true,true,true,true,true,false,true,false,true,false,false,true,false
+busuk akar sawit,false,true,false,false,true,true,true,true,true,true,false,false,true,true,false,true
+anthracnose,false,true,true,false,false,true,false,true,true,true,false,false,false,false,true,false
+busuk akar sawit,false,false,false,false,false,false,false,false,true,false,true,true,false,false,false,true
+busuk buah,false,false,false,false,true,true,false,false,false,true,false,true,false,false,true,false
+busuk pangkal batang,true,false,true,true,true,true,false,false,false,true,true,true,false,true,true,false
+tajuk,false,false,false,false,true,true,true,false,true,false,true,true,true,true,true,false
+busuk pangkal batang,true,true,true,false,false,true,false,true,false,false,true,false,true,false,true,true
+busuk akar sawit,false,true,true,true,false,true,true,false,false,true,true,true,false,true,false,true
+garis kuning,true,true,true,false,true,false,false,false,true,true,false,true,false,false,false,true
+busuk akar sawit,true,false,false,true,false,false,true,true,true,true,false,false,false,true,false,false
+garis kuning,false,true,false,true,true,false,true,true,false,false,false,false,true,true,true,true
+busuk buah,true,false,true,false,false,false,true,false,true,false,true,true,false,true,false,true
+busuk buah,true,false,false,true,false,true,false,false,false,true,false,false,true,true,true,false
+daun mengecil,false,false,false,true,true,false,false,true,true,true,true,false,false,false,false,false
+anthracnose,true,true,true,false,true,true,true,false,true,false,false,true,true,true,false,false
+busuk akar sawit,false,false,false,true,true,false,false,true,false,true,false,true,false,false,true,true
+garis kuning,false,true,false,false,false,true,true,false,true,false,true,false,false,false,true,false
+anthracnose,false,true,false,true,true,false,false,true,false,true,false,false,true,true,false,false
+busuk buah,false,true,true,true,false,true,false,false,true,true,true,true,true,true,true,true
+busuk buah,false,false,true,false,false,true,true,true,true,true,true,true,false,false,true,true
+daun mengecil,false,true,false,false,true,true,true,false,true,true,false,false,true,false,true,false
+busuk akar sawit,false,true,false,true,true,false,false,false,true,false,true,true,true,true,false,false
+busuk pangkal batang,false,false,true,false,false,false,false,true,false,false,true,false,false,false,true,false
+busuk buah,true,true,true,true,false,true,false,true,true,false,false,false,false,false,false,true
+busuk kuncup,false,false,true,false,true,false,true,false,false,true,false,true,false,false,true,true
+busuk buah,false,true,false,false,false,true,false,false,false,false,true,false,true,true,false,false
+daun mengecil,false,false,false,false,false,false,true,false,true,false,false,false,false,true,false,true
+daun mengecil,true,true,true,true,true,false,false,false,true,true,true,false,true,false,true,false
+busuk buah,true,false,true,true,true,true,false,false,false,false,true,false,false,true,true,true
+tajuk,true,false,true,true,false,true,true,false,false,false,false,true,true,true,false,true
+busuk kuncup,false,true,false,false,false,false,true,true,false,false,false,false,true,true,false,true
+garis kuning,true,true,true,true,true,false,true,true,true,false,true,true,false,false,false,false
+garis kuning,true,false,false,false,false,false,true,false,false,true,false,false,false,true,false,false
+tajuk,false,false,false,false,false,true,false,true,false,true,false,true,true,false,false,false
+daun mengecil,false,false,true,false,true,false,false,true,true,false,false,false,true,false,false,true
+garis kuning,true,false,false,true,false,false,false,true,false,true,true,true,false,true,false,true
+busuk pangkal batang,false,true,true,true,true,false,false,false,false,true,false,false,true,false,false,true
+daun mengecil,true,false,false,false,true,false,true,false,true,false,true,true,true,true,false,false
+busuk pangkal batang,true,false,false,true,false,true,false,false,false,false,false,true,true,false,true,true
+busuk akar sawit,true,true,true,false,false,true,false,false,false,true,true,false,true,false,false,false
+busuk pangkal batang,true,false,true,true,false,true,false,false,false,true,true,true,false,false,true,true
+busuk akar sawit,true,true,false,true,true,true,false,true,true,true,false,false,true,false,true,false
+busuk pangkal batang,false,true,false,true,true,false,false,true,true,true,true,true,false,false,false,false
+anthracnose,false,false,false,false,true,true,false,false,true,true,false,true,true,false,true,false
+busuk akar sawit,false,false,false,true,true,false,true,false,false,false,false,false,true,false,false,true
+daun mengecil,true,false,true,false,true,false,true,false,false,false,true,true,false,false,false,true
+garis kuning,false,true,false,true,true,false,false,false,true,true,true,true,true,false,false,true
+busuk akar sawit,true,true,false,true,false,true,true,false,true,true,false,false,false,false,true,true
+garis kuning,true,true,false,false,false,true,true,false,true,false,true,false,true,false,false,true
+anthracnose,true,false,false,true,false,true,true,true,true,true,true,false,true,false,false,true
+busuk akar sawit,true,false,true,true,true,true,false,true,false,true,true,false,true,false,true,true
+tajuk,false,false,false,false,true,true,false,true,false,false,true,false,false,true,true,false
+tajuk,false,true,true,true,true,true,true,false,false,true,true,false,false,true,true,false
+busuk buah,false,false,false,true,false,true,false,false,true,false,false,false,false,true,false,true
+busuk akar sawit,true,true,false,false,false,false,false,true,true,true,false,true,true,true,true,false
+garis kuning,true,false,true,true,false,false,true,false,true,true,true,false,true,false,true,true
+anthracnose,true,true,false,true,true,false,false,false,false,false,true,false,true,true,false,false
+busuk pangkal batang,false,false,false,false,false,false,true,true,false,false,false,false,false,true,true,true
+busuk pangkal batang,false,false,true,false,true,false,true,true,true,true,true,true,false,true,true,false
+busuk pangkal batang,false,true,true,true,false,false,true,true,true,false,true,false,false,true,false,false
+tajuk,false,false,true,true,false,false,true,false,false,false,false,false,false,false,true,true
+busuk pangkal batang,false,false,true,false,false,true,true,true,false,false,false,false,false,false,true,true
+busuk kuncup,true,true,true,false,false,true,false,true,false,true,true,true,false,true,false,false
+busuk buah,false,true,true,true,true,true,false,true,false,false,false,false,false,false,true,false
+garis kuning,true,false,true,false,false,false,true,false,true,true,false,true,false,false,true,true
+busuk buah,false,false,true,false,false,true,false,true,false,false,true,false,true,false,true,true
+garis kuning,false,true,true,false,true,true,true,false,true,false,true,false,true,false,false,false
+busuk akar sawit,false,true,false,false,true,false,true,true,false,false,false,true,true,true,true,false
+busuk pangkal batang,true,true,true,false,false,true,false,true,false,false,true,true,true,true,true,false
+busuk akar sawit,true,true,false,true,true,true,true,true,false,false,false,true,false,true,false,false
+busuk akar sawit,true,true,true,true,false,true,true,false,false,true,true,true,false,false,false,false
+daun mengecil,false,true,true,false,false,false,true,true,true,false,false,true,true,false,false,false
+busuk pangkal batang,true,false,true,false,true,false,true,true,true,false,true,false,true,true,true,false
+busuk akar sawit,true,false,true,false,true,false,false,false,false,true,true,false,true,false,true,false
+busuk akar sawit,true,false,true,false,true,true,true,true,true,true,false,false,true,false,false,true
+busuk buah,false,false,true,true,true,false,false,true,true,false,true,true,false,false,true,true
+busuk akar sawit,false,true,false,true,false,false,true,false,false,false,false,true,true,false,false,false
+busuk buah,false,false,false,true,true,false,true,false,false,false,false,true,true,false,true,false
+daun mengecil,true,false,true,true,false,true,false,true,false,false,true,false,false,true,true,false
+busuk akar sawit,true,false,false,false,false,false,false,false,true,false,true,true,false,true,false,false
+busuk akar sawit,false,true,true,false,false,false,false,true,false,true,false,false,false,true,true,false
+busuk pangkal batang,false,true,false,false,false,true,false,true,true,false,true,false,true,false,false,true
+busuk akar sawit,true,true,true,true,true,false,false,true,true,true,false,true,true,false,false,true
+busuk buah,true,true,true,true,false,true,false,false,true,true,true,true,true,true,true,false
+garis kuning,false,false,true,false,true,true,false,true,true,false,false,false,true,false,false,true
+garis kuning,true,false,true,false,false,false,false,false,false,true,true,true,false,false,false,false
+busuk pangkal batang,true,false,true,true,true,false,true,true,false,false,false,false,true,true,true,false
+busuk kuncup,true,true,true,false,false,true,false,true,false,false,true,false,false,false,false,true
+busuk kuncup,true,true,false,false,false,false,false,false,true,false,false,true,true,false,false,true
+garis kuning,false,false,false,true,true,true,true,false,false,true,true,false,true,false,true,true
+busuk akar sawit,false,false,true,true,false,true,false,true,true,false,false,true,false,true,false,true
+busuk buah,true,false,false,false,false,true,false,false,true,true,false,true,true,true,true,true
+busuk akar sawit,true,false,false,false,false,false,true,true,true,true,false,true,false,false,false,true
+busuk kuncup,false,true,false,false,true,false,false,true,false,false,false,true,true,false,true,true
+daun mengecil,true,false,true,true,true,true,false,false,true,true,true,true,true,true,true,true
+busuk kuncup,false,true,true,false,false,true,true,true,false,true,true,false,false,true,true,false
+busuk kuncup,true,true,false,false,true,true,false,true,true,true,false,false,true,true,false,false
+busuk kuncup,false,true,true,true,true,true,true,false,true,false,true,false,false,true,false,false
+anthracnose,false,false,true,true,false,true,false,true,true,true,false,false,false,true,true,false
+garis kuning,false,false,false,true,true,false,false,false,false,false,true,false,true,false,true,false
+busuk kuncup,true,false,true,false,false,true,true,true,false,false,true,true,true,true,false,false
+tajuk,true,false,false,true,false,true,true,false,false,true,false,true,false,true,true,false
+daun mengecil,true,false,false,false,false,false,false,true,true,false,false,false,true,true,true,true
+busuk akar sawit,false,false,false,true,false,false,false,true,false,true,false,false,true,true,false,false
+busuk kuncup,false,true,true,false,true,false,false,true,true,true,true,false,false,false,false,false
+tajuk,false,true,true,true,true,true,false,false,false,true,true,true,false,false,true,true
+busuk akar sawit,false,true,false,true,false,false,true,true,true,false,false,false,false,false,true,true
+busuk pangkal batang,true,false,false,true,false,false,true,true,true,true,false,false,true,true,false,false
+busuk pangkal batang,true,false,true,true,false,true,true,true,true,false,false,true,false,true,true,false
+anthracnose,false,false,false,true,false,false,false,true,false,false,true,false,false,false,true,true
+garis kuning,true,true,true,false,false,true,false,false,false,false,false,false,false,true,false,false
+garis kuning,false,true,false,false,false,false,true,false,false,false,true,false,true,true,false,true
+busuk akar sawit,true,true,true,true,true,true,false,true,true,true,true,true,false,false,false,true
+busuk buah,false,true,true,false,true,false,true,true,false,true,false,false,true,true,false,false
+anthracnose,true,false,true,false,true,false,true,false,true,false,false,true,false,true,false,true
+busuk buah,true,true,false,false,true,true,false,true,true,false,true,true,false,true,true,false
+busuk buah,false,true,true,true,false,false,false,true,false,false,true,false,false,false,false,true
+garis kuning,true,true,false,false,false,true,true,false,false,true,false,true,false,false,true,true
+garis kuning,false,true,false,false,false,true,true,true,true,false,true,true,false,false,false,true
+busuk pangkal batang,true,true,true,false,false,false,false,true,false,false,true,true,true,true,true,false
+anthracnose,false,false,true,false,false,false,false,true,true,false,false,false,true,true,false,false
+busuk pangkal batang,true,false,false,true,true,true,true,false,true,false,false,true,true,false,true,true
+daun mengecil,false,true,false,true,true,true,true,true,false,false,true,false,false,false,true,true
+daun mengecil,false,true,false,true,true,true,true,false,true,true,true,true,false,false,false,true
+busuk pangkal batang,true,true,false,true,false,false,true,true,false,false,true,false,true,false,true,false
+busuk buah,true,false,true,true,false,false,false,false,true,true,false,true,true,false,false,false
+tajuk,true,false,false,false,true,false,true,true,false,true,true,false,true,true,true,false
+daun mengecil,false,false,true,false,false,true,false,false,true,false,false,false,false,true,true,true
+anthracnose,true,false,true,false,true,true,true,false,false,false,true,true,true,true,false,true
+busuk akar sawit,true,false,true,false,true,true,true,true,false,false,false,false,true,true,true,false
+anthracnose,false,true,false,false,false,true,true,false,true,false,true,true,false,false,true,false
+busuk pangkal batang,true,false,true,true,false,false,true,true,false,false,true,true,false,true,false,false
+busuk buah,false,false,true,true,false,false,false,true,false,false,true,false,true,false,false,false
+tajuk,false,false,false,true,false,false,true,true,false,true,true,false,true,true,true,true
+busuk buah,false,true,false,true,true,true,true,true,true,false,false,false,false,false,true,true
+tajuk,false,true,false,false,true,true,false,false,true,true,false,false,false,false,false,false
+busuk pangkal batang,false,true,true,false,false,true,true,true,false,false,true,true,true,true,false,false
+garis kuning,true,false,false,true,false,true,true,false,false,false,true,false,false,false,true,false
+busuk pangkal batang,false,true,false,false,false,true,true,false,true,true,false,true,true,true,true,true
+tajuk,true,true,true,true,false,false,true,false,true,true,false,true,true,false,true,false
+busuk kuncup,true,false,false,true,false,true,false,false,false,true,true,false,true,false,true,true
+busuk buah,true,true,true,false,false,true,false,false,false,true,true,false,false,false,true,false
+busuk kuncup,false,false,true,false,true,false,false,true,true,false,false,false,false,true,true,false
+busuk buah,true,true,true,false,true,false,true,false,true,false,true,false,false,true,true,true
+busuk akar sawit,true,true,false,false,false,true,false,true,false,false,true,false,false,false,false,false
+tajuk,false,true,true,false,true,false,false,false,true,false,true,false,true,true,true,true
+busuk kuncup,false,false,true,true,false,true,true,true,false,true,false,false,false,false,false,false
+busuk kuncup,true,true,true,false,true,true,false,false,true,true,false,true,true,true,true,false
+daun mengecil,false,false,true,true,false,false,false,false,true,true,false,false,true,true,true,false
+busuk buah,true,true,false,true,false,false,true,true,false,false,true,false,false,true,false,false
+busuk pangkal batang,true,true,true,false,false,true,false,false,true,false,true,false,false,true,true,false
+tajuk,true,true,false,false,true,false,true,true,true,true,true,true,false,false,false,true
+busuk akar sawit,false,false,true,true,true,true,true,true,false,true,false,false,true,true,false,false
+tajuk,true,false,true,true,false,false,false,true,true,true,true,true,true,true,true,false
+garis kuning,false,false,true,false,true,false,false,false,true,true,true,false,true,false,false,true
+busuk buah,false,true,false,true,true,false,true,true,false,true,false,true,false,false,false,true
+busuk akar sawit,false,false,true,false,false,false,false,false,true,true,false,false,false,true,true,false
+busuk pangkal batang,true,false,true,true,true,false,false,true,true,true,true,false,true,false,false,false
+garis kuning,true,false,true,true,false,true,true,false,false,false,true,true,false,false,false,false
+tajuk,false,true,false,true,false,false,true,true,false,false,false,true,false,true,true,true
+anthracnose,true,false,true,true,false,true,false,false,true,true,true,true,false,false,false,true
+busuk pangkal batang,true,true,true,true,false,true,false,true,false,false,true,false,true,false,false,true
+busuk kuncup,false,true,false,true,false,false,true,true,false,true,false,true,true,false,false,true
+busuk akar sawit,false,false,false,false,true,false,true,false,true,true,false,true,false,false,true,false
+tajuk,false,true,false,true,true,true,false,true,false,true,false,true,true,false,true,false
+daun mengecil,false,false,false,true,true,true,false,false,false,false,true,true,true,true,false,false
+anthracnose,false,true,true,false,false,false,true,true,false,true,true,true,false,true,false,true
+daun mengecil,false,false,false,true,false,true,false,false,true,true,true,false,false,false,false,false
+busuk buah,true,true,true,false,true,false,true,true,true,false,false,true,false,false,false,false
+garis kuning,false,false,true,true,true,true,false,true,true,false,true,true,false,false,false,true

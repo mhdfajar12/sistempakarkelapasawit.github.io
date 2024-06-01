@@ -1,0 +1,1001 @@
+plant_disease_name,spotted_leaves,weak_trunk,brown_leaves,weak_root,rotten_fruit,small_growth
+rust,false,false,true,false,true,true
+rust,true,true,false,true,false,true
+blight,true,false,false,false,true,true
+rust,false,true,false,true,true,true
+blight,true,false,false,false,true,false
+powdery mildew,true,true,false,true,false,false
+rust,false,true,false,false,false,false
+downy mildew,true,false,false,true,true,false
+leaf spot,false,false,false,true,false,true
+rust,false,true,false,true,false,true
+blight,false,true,true,true,false,true
+rust,false,false,false,true,false,true
+rust,false,true,false,false,false,true
+rust,false,true,false,false,false,false
+leaf spot,false,true,true,true,true,false
+blight,true,false,true,false,false,true
+blight,true,false,false,true,false,true
+leaf spot,true,false,true,false,true,false
+blight,true,true,false,true,false,false
+downy mildew,false,true,true,true,false,false
+rust,true,false,false,false,true,false
+blight,true,false,true,true,false,true
+leaf spot,true,false,true,false,true,true
+blight,true,false,true,false,true,false
+rust,true,false,false,true,false,true
+rust,false,false,false,false,false,false
+blight,true,false,false,false,false,true
+leaf spot,false,false,false,false,false,false
+rust,false,false,false,true,true,false
+blight,false,false,true,false,true,true
+blight,true,false,false,true,false,true
+downy mildew,true,true,false,false,false,false
+leaf spot,true,true,false,false,true,false
+blight,false,false,false,true,true,true
+powdery mildew,false,true,false,true,true,false
+blight,false,true,true,false,true,false
+rust,false,false,false,false,true,false
+blight,true,true,true,false,true,true
+leaf spot,true,true,true,true,true,true
+rust,true,false,true,false,true,true
+leaf spot,false,true,false,true,true,true
+blight,true,false,true,false,true,false
+leaf spot,false,true,false,true,true,true
+rust,true,true,true,true,false,false
+leaf spot,false,false,false,true,false,false
+blight,false,true,false,true,false,false
+rust,true,true,false,true,false,true
+leaf spot,true,false,false,true,true,true
+blight,false,true,true,true,false,true
+powdery mildew,true,true,false,false,false,true
+blight,true,true,true,false,true,false
+powdery mildew,false,true,false,true,true,false
+leaf spot,true,true,true,true,false,true
+rust,true,false,true,false,false,false
+leaf spot,true,false,true,true,true,true
+rust,false,false,false,false,true,true
+rust,true,true,true,true,true,true
+rust,false,true,true,false,true,false
+rust,false,true,true,true,false,true
+blight,false,true,true,true,false,false
+blight,false,false,false,false,true,true
+downy mildew,true,true,false,true,true,false
+blight,true,false,true,true,true,false
+rust,false,false,true,true,true,false
+blight,false,false,true,true,false,false
+blight,false,true,false,false,true,true
+rust,false,true,true,true,true,false
+blight,true,false,true,true,true,true
+rust,true,true,false,true,true,false
+leaf spot,true,false,false,true,false,true
+rust,true,false,true,false,false,false
+leaf spot,false,true,true,true,false,true
+leaf spot,false,true,false,false,true,false
+leaf spot,true,true,false,true,false,false
+rust,false,false,false,true,true,true
+rust,false,false,false,true,true,false
+rust,true,true,true,false,false,false
+powdery mildew,false,true,true,false,true,false
+rust,false,true,false,true,true,false
+powdery mildew,false,true,false,false,true,true
+rust,true,true,true,false,false,true
+blight,true,true,false,true,true,false
+powdery mildew,true,false,true,true,false,true
+blight,true,false,false,false,true,true
+leaf spot,true,false,true,false,true,false
+rust,true,true,false,false,true,false
+leaf spot,true,true,true,false,false,false
+rust,true,false,false,true,false,true
+rust,true,true,true,true,false,true
+powdery mildew,false,false,false,true,false,true
+rust,false,true,false,false,false,true
+downy mildew,false,true,true,false,true,false
+rust,false,true,true,false,false,false
+blight,true,false,false,false,false,true
+powdery mildew,false,false,true,false,false,false
+powdery mildew,false,false,false,false,false,false
+powdery mildew,false,false,false,true,true,false
+rust,false,true,true,true,false,true
+blight,true,true,true,false,true,false
+leaf spot,true,true,true,true,true,false
+leaf spot,false,true,false,true,false,false
+rust,true,true,true,false,false,false
+downy mildew,true,true,false,true,false,true
+rust,true,true,false,true,false,false
+rust,true,false,true,true,true,false
+blight,false,false,false,false,true,false
+downy mildew,false,true,false,false,false,true
+blight,false,true,true,false,false,false
+rust,false,false,true,false,true,false
+powdery mildew,false,true,false,true,false,true
+rust,true,true,false,false,false,true
+powdery mildew,false,false,true,false,true,false
+leaf spot,false,true,true,false,false,false
+leaf spot,false,true,false,false,false,true
+rust,true,true,true,false,true,true
+rust,true,true,true,true,false,true
+rust,false,true,false,false,true,true
+leaf spot,false,false,true,false,false,true
+leaf spot,true,false,false,false,true,true
+rust,false,true,true,false,true,true
+downy mildew,true,true,false,false,true,true
+powdery mildew,true,false,true,true,true,false
+blight,true,true,true,false,false,false
+rust,true,false,false,true,true,true
+rust,true,true,true,true,false,false
+rust,true,true,false,false,false,true
+rust,true,false,false,true,false,true
+powdery mildew,true,false,false,false,false,false
+downy mildew,false,true,true,false,true,false
+leaf spot,true,false,true,true,false,true
+rust,false,false,false,false,true,true
+rust,false,true,true,true,true,true
+powdery mildew,true,false,false,false,false,false
+powdery mildew,false,true,false,true,false,false
+blight,true,true,true,false,true,true
+leaf spot,false,true,true,true,false,true
+leaf spot,true,false,true,true,true,true
+leaf spot,true,false,false,false,true,false
+blight,true,true,false,true,false,true
+rust,true,false,false,false,false,false
+rust,true,true,false,true,false,false
+rust,true,true,true,true,true,true
+downy mildew,true,false,false,true,false,false
+powdery mildew,false,true,true,true,false,true
+rust,false,true,true,false,true,false
+leaf spot,true,true,false,false,true,false
+powdery mildew,true,false,false,true,false,true
+leaf spot,false,false,false,true,true,true
+rust,false,false,false,false,false,true
+blight,true,true,true,true,true,false
+blight,false,false,false,true,false,false
+leaf spot,true,true,false,true,false,true
+leaf spot,true,false,true,false,false,false
+downy mildew,true,true,true,false,true,true
+rust,true,false,true,false,true,false
+downy mildew,true,false,false,true,false,false
+powdery mildew,false,true,true,true,true,true
+leaf spot,false,false,true,true,false,false
+downy mildew,false,true,false,true,false,false
+powdery mildew,true,true,true,true,true,false
+rust,false,true,true,true,true,false
+leaf spot,true,true,true,false,true,false
+blight,false,true,false,false,false,true
+blight,true,true,true,false,false,true
+rust,true,true,false,false,false,false
+rust,false,false,false,true,true,true
+blight,true,true,true,true,false,false
+blight,false,false,false,false,true,false
+powdery mildew,false,false,false,false,true,false
+blight,true,false,true,false,true,true
+powdery mildew,true,false,false,false,true,true
+powdery mildew,false,true,false,false,true,false
+blight,false,false,false,true,true,true
+rust,false,true,true,true,true,false
+rust,false,false,false,true,false,true
+rust,true,true,false,true,true,true
+downy mildew,false,false,false,false,true,true
+leaf spot,false,false,true,false,true,true
+leaf spot,false,true,true,false,true,false
+leaf spot,false,false,false,true,false,true
+rust,false,true,false,true,false,true
+blight,true,true,false,false,true,false
+leaf spot,true,true,false,false,true,true
+rust,true,true,false,false,true,false
+leaf spot,true,true,true,false,false,true
+rust,true,true,false,false,true,true
+blight,true,true,false,true,true,false
+leaf spot,true,true,true,true,false,false
+rust,false,false,true,false,false,true
+leaf spot,false,true,false,true,false,false
+powdery mildew,false,true,true,true,true,false
+downy mildew,false,true,true,true,false,false
+rust,true,true,true,true,true,false
+rust,true,true,false,true,false,true
+rust,true,false,false,true,false,true
+leaf spot,true,false,false,true,false,true
+rust,true,true,false,true,true,false
+blight,true,true,false,true,true,false
+powdery mildew,false,true,false,true,false,true
+powdery mildew,false,false,false,false,true,false
+leaf spot,false,true,true,false,false,true
+leaf spot,false,false,true,false,false,true
+blight,true,false,true,false,true,false
+downy mildew,false,true,false,true,true,true
+downy mildew,false,false,true,false,true,false
+powdery mildew,false,true,true,false,false,false
+rust,true,true,true,true,false,false
+rust,true,true,false,false,true,false
+blight,true,false,true,false,false,false
+powdery mildew,false,false,true,false,true,false
+leaf spot,true,true,false,false,false,false
+blight,false,false,true,false,false,true
+downy mildew,true,false,true,false,true,true
+rust,false,true,false,false,false,true
+powdery mildew,false,true,true,true,false,true
+downy mildew,true,true,false,true,true,true
+leaf spot,true,false,false,false,false,false
+downy mildew,true,true,true,false,true,true
+rust,false,true,false,true,true,true
+rust,false,false,true,true,true,true
+rust,true,true,false,true,true,false
+powdery mildew,false,false,true,false,false,true
+rust,true,false,false,true,true,false
+rust,false,true,false,true,false,false
+leaf spot,true,false,false,true,false,false
+downy mildew,true,true,true,true,false,false
+powdery mildew,true,false,true,true,true,false
+leaf spot,true,true,false,false,false,true
+blight,false,false,true,false,false,true
+blight,false,true,false,true,false,false
+blight,true,false,false,true,false,true
+powdery mildew,true,false,false,false,true,false
+blight,true,false,false,true,false,true
+rust,true,false,false,true,true,true
+rust,false,true,true,false,true,true
+rust,true,false,false,false,false,false
+blight,true,false,true,true,false,true
+rust,true,true,true,false,false,false
+rust,true,true,true,true,false,false
+leaf spot,false,true,false,true,true,true
+rust,false,true,true,false,false,true
+leaf spot,false,true,true,false,false,false
+leaf spot,true,false,true,true,false,false
+powdery mildew,true,true,false,true,false,true
+blight,true,true,false,true,true,true
+blight,true,false,true,true,false,false
+blight,true,false,true,true,true,true
+blight,true,false,true,false,true,false
+rust,true,false,false,true,false,true
+rust,true,false,true,false,true,false
+downy mildew,false,true,true,true,true,false
+rust,true,false,false,false,false,true
+powdery mildew,false,false,true,false,true,false
+rust,false,false,false,false,false,false
+leaf spot,false,false,true,true,true,false
+leaf spot,false,true,false,true,true,true
+blight,true,false,false,true,false,false
+rust,false,true,true,false,false,false
+rust,false,false,false,true,false,false
+leaf spot,true,false,false,true,false,false
+blight,false,true,true,true,false,true
+rust,true,false,true,false,true,false
+powdery mildew,true,true,true,false,true,true
+rust,true,true,true,false,false,false
+rust,true,true,false,false,true,true
+leaf spot,true,true,true,false,false,false
+leaf spot,true,false,false,true,false,false
+rust,true,false,false,false,false,true
+rust,false,true,true,true,true,false
+blight,false,false,false,true,true,false
+powdery mildew,true,true,true,false,true,false
+blight,false,false,false,false,true,true
+downy mildew,false,false,true,true,true,false
+rust,false,true,true,true,false,true
+rust,true,false,false,false,false,false
+leaf spot,false,true,true,false,false,false
+leaf spot,true,true,false,false,true,false
+rust,false,false,false,true,false,true
+downy mildew,false,true,false,false,false,true
+leaf spot,false,true,true,true,true,true
+downy mildew,true,false,true,false,true,true
+powdery mildew,false,false,true,true,false,true
+rust,true,false,false,true,true,true
+downy mildew,false,true,false,true,true,false
+rust,false,false,true,false,true,true
+rust,false,true,true,true,true,true
+blight,false,false,false,true,true,false
+rust,false,true,false,false,true,true
+rust,true,false,true,true,false,true
+powdery mildew,false,true,true,true,false,false
+blight,true,false,true,true,true,false
+rust,false,false,false,true,true,false
+blight,false,true,true,false,false,true
+powdery mildew,true,true,false,false,true,false
+rust,true,true,false,false,false,false
+rust,false,false,false,true,true,false
+blight,true,true,true,false,false,true
+blight,false,false,false,false,false,false
+rust,true,false,false,true,true,true
+blight,true,false,true,true,false,false
+powdery mildew,false,true,false,false,true,true
+rust,false,false,true,true,false,false
+blight,false,true,false,false,false,false
+blight,true,true,true,true,false,false
+leaf spot,false,false,false,false,false,false
+blight,false,false,true,false,false,true
+leaf spot,false,false,false,true,false,true
+rust,true,true,true,true,true,true
+blight,true,true,true,false,false,false
+rust,false,true,false,false,false,true
+rust,false,true,false,true,false,true
+powdery mildew,true,true,false,false,true,false
+blight,false,false,false,true,false,true
+rust,true,true,false,false,true,false
+rust,true,true,true,true,false,false
+powdery mildew,false,true,true,false,true,true
+downy mildew,true,false,true,true,true,false
+downy mildew,true,false,false,false,true,true
+rust,true,false,true,true,true,false
+blight,false,true,false,false,true,true
+rust,false,true,false,false,false,false
+rust,true,false,false,false,true,false
+rust,false,false,false,true,true,false
+downy mildew,false,true,false,true,true,false
+leaf spot,false,false,true,true,false,true
+powdery mildew,true,true,true,true,true,true
+powdery mildew,false,false,true,true,true,true
+leaf spot,false,true,false,true,true,true
+rust,true,true,false,false,false,false
+rust,false,true,true,true,false,false
+rust,true,true,true,false,false,true
+downy mildew,true,false,false,true,true,false
+downy mildew,true,false,true,false,true,false
+blight,false,false,true,true,true,true
+downy mildew,false,false,true,false,true,true
+rust,false,true,true,false,true,false
+rust,true,false,false,false,false,true
+blight,true,true,true,true,true,true
+blight,false,true,true,false,true,true
+rust,false,true,false,true,false,false
+rust,false,false,true,false,false,true
+rust,false,true,true,true,false,false
+blight,true,false,false,false,true,true
+blight,true,false,false,true,true,false
+blight,true,false,false,true,true,false
+rust,true,true,false,true,true,true
+rust,false,false,false,false,false,true
+rust,false,false,false,false,false,false
+leaf spot,false,true,true,true,true,true
+blight,false,true,false,true,false,true
+rust,true,false,true,true,true,true
+powdery mildew,false,true,true,true,true,true
+blight,false,false,true,true,true,false
+leaf spot,false,true,false,true,false,true
+rust,false,true,false,true,true,false
+rust,true,false,false,true,false,true
+blight,true,false,true,false,true,false
+blight,false,false,true,false,true,false
+rust,false,false,true,false,true,false
+powdery mildew,true,false,false,false,true,true
+rust,true,false,true,false,false,false
+blight,true,true,false,true,false,true
+leaf spot,false,true,true,true,true,false
+blight,true,false,true,true,false,false
+rust,false,true,false,true,false,true
+rust,true,true,false,false,true,true
+downy mildew,false,true,true,true,true,false
+rust,true,true,true,true,true,false
+downy mildew,true,true,true,false,true,true
+blight,false,true,false,true,false,false
+rust,false,true,true,true,false,true
+blight,false,true,true,false,false,true
+leaf spot,false,true,true,false,true,true
+rust,false,false,true,true,true,false
+blight,false,true,true,true,false,true
+leaf spot,true,false,false,true,true,true
+leaf spot,false,true,false,false,true,true
+rust,false,true,true,true,true,false
+downy mildew,true,true,true,false,false,false
+rust,false,false,false,true,false,false
+blight,true,true,false,false,false,true
+rust,true,false,false,false,false,false
+powdery mildew,false,true,true,true,false,false
+downy mildew,true,false,true,false,true,false
+rust,false,true,false,true,true,true
+downy mildew,false,true,true,true,false,false
+downy mildew,true,false,false,false,false,true
+rust,true,true,true,true,false,true
+rust,true,true,false,false,false,false
+powdery mildew,true,true,true,false,true,true
+rust,false,false,false,true,true,true
+rust,false,true,false,true,false,false
+downy mildew,true,true,true,false,true,true
+powdery mildew,false,false,true,true,true,true
+rust,false,false,true,false,true,true
+leaf spot,true,true,false,false,false,false
+blight,true,false,true,false,false,true
+rust,false,true,true,false,true,false
+leaf spot,true,false,false,false,false,false
+downy mildew,false,false,true,false,true,false
+blight,false,true,true,false,true,false
+rust,true,true,false,false,false,false
+rust,true,true,false,false,false,false
+blight,true,true,false,false,false,false
+leaf spot,false,true,false,true,true,false
+leaf spot,true,true,false,false,false,true
+powdery mildew,false,false,false,false,true,true
+downy mildew,false,false,true,false,false,false
+leaf spot,false,true,true,false,false,false
+leaf spot,true,false,true,false,false,true
+blight,false,false,true,false,false,false
+rust,false,true,false,true,false,true
+leaf spot,false,true,false,true,false,false
+rust,false,false,false,true,false,false
+leaf spot,false,true,false,false,true,true
+rust,true,true,false,false,false,false
+blight,false,false,false,false,true,true
+rust,true,true,false,false,true,false
+powdery mildew,false,true,false,true,true,false
+rust,false,false,true,false,false,false
+blight,false,false,true,false,true,true
+downy mildew,true,true,false,false,false,false
+leaf spot,false,false,true,false,false,false
+leaf spot,false,false,false,true,true,false
+blight,false,true,false,true,true,true
+downy mildew,true,true,true,false,false,true
+leaf spot,true,false,false,true,false,true
+blight,true,true,false,false,true,false
+powdery mildew,false,true,true,false,true,true
+rust,false,true,false,true,false,true
+downy mildew,true,true,false,true,true,false
+rust,true,false,false,true,false,false
+blight,true,true,false,true,true,true
+rust,true,false,false,false,true,false
+rust,true,false,false,true,true,false
+powdery mildew,true,true,true,false,false,true
+rust,true,true,true,true,true,false
+powdery mildew,true,false,false,true,false,true
+leaf spot,false,true,false,false,true,true
+blight,false,false,false,true,true,true
+downy mildew,true,true,false,true,true,true
+powdery mildew,true,false,true,true,true,false
+blight,true,false,true,true,false,true
+blight,true,true,true,false,true,true
+blight,false,true,false,true,true,false
+rust,false,false,false,false,false,false
+leaf spot,true,false,true,true,true,true
+blight,true,true,true,false,true,true
+rust,false,true,false,true,false,false
+downy mildew,false,true,true,true,true,true
+powdery mildew,true,true,false,false,true,false
+leaf spot,true,false,true,true,false,true
+blight,true,false,false,true,true,false
+leaf spot,false,false,false,true,false,false
+rust,true,false,true,true,false,true
+powdery mildew,true,false,true,true,false,true
+blight,false,true,false,true,true,true
+leaf spot,false,true,false,false,true,true
+blight,false,true,false,false,true,false
+blight,true,false,false,false,false,false
+rust,false,true,true,true,false,false
+rust,false,false,true,true,true,false
+powdery mildew,false,true,false,true,false,false
+rust,false,false,true,false,false,false
+rust,true,true,false,false,false,true
+leaf spot,true,false,false,true,false,false
+rust,true,false,true,true,false,false
+blight,true,false,false,true,true,true
+blight,true,false,true,true,true,false
+rust,false,false,true,false,false,true
+blight,true,false,true,false,false,true
+leaf spot,true,true,true,true,true,true
+rust,true,true,false,true,false,false
+rust,true,false,true,true,false,true
+rust,true,true,true,true,true,true
+rust,false,false,true,false,true,true
+rust,true,false,true,false,false,true
+rust,false,true,false,false,true,false
+powdery mildew,true,true,true,true,false,true
+powdery mildew,false,false,true,false,true,false
+rust,false,true,false,false,false,true
+blight,true,false,true,true,false,false
+powdery mildew,true,true,false,true,false,true
+rust,false,true,true,false,false,true
+blight,true,true,false,false,false,true
+downy mildew,false,true,false,false,true,true
+leaf spot,true,false,true,false,true,false
+rust,true,false,false,false,true,true
+blight,true,false,false,false,false,false
+powdery mildew,true,false,false,true,true,false
+downy mildew,false,false,true,true,false,true
+blight,false,false,false,true,true,true
+downy mildew,true,false,false,true,true,false
+downy mildew,false,true,false,true,true,true
+leaf spot,true,true,false,true,false,true
+rust,true,false,false,false,false,true
+rust,false,true,false,false,true,true
+rust,true,false,true,true,false,false
+blight,false,true,true,true,false,false
+rust,true,false,true,false,true,true
+leaf spot,true,false,true,true,false,false
+rust,false,false,true,false,true,false
+rust,false,false,true,false,true,true
+powdery mildew,false,true,false,false,true,false
+leaf spot,false,false,false,false,true,false
+rust,true,false,true,false,true,false
+powdery mildew,false,true,false,false,false,true
+rust,true,true,false,true,false,false
+blight,false,true,true,true,true,true
+powdery mildew,true,false,false,false,false,true
+blight,false,false,false,true,false,true
+leaf spot,true,false,true,false,true,false
+leaf spot,false,false,false,false,false,true
+rust,false,true,true,false,false,true
+powdery mildew,false,false,false,false,true,false
+blight,true,true,false,false,true,true
+blight,true,false,false,false,true,true
+rust,false,true,false,false,true,true
+blight,true,true,false,false,true,false
+downy mildew,true,true,true,false,false,true
+blight,true,false,true,false,false,true
+powdery mildew,true,true,false,true,false,false
+powdery mildew,true,false,true,false,false,false
+rust,false,false,true,false,true,true
+rust,false,false,false,false,true,false
+powdery mildew,false,false,false,false,false,false
+rust,true,false,true,true,false,false
+blight,false,false,false,true,false,true
+blight,false,true,false,false,false,false
+powdery mildew,false,true,true,false,true,false
+rust,true,false,true,true,true,false
+leaf spot,false,true,true,false,false,false
+rust,false,false,false,false,false,true
+rust,true,false,false,true,true,true
+rust,false,true,true,false,false,true
+rust,true,false,false,false,true,false
+rust,true,true,true,true,false,true
+rust,true,false,true,false,false,false
+leaf spot,false,false,true,false,true,false
+leaf spot,false,true,false,true,true,false
+downy mildew,true,true,false,false,true,false
+leaf spot,true,false,false,true,false,false
+rust,false,true,false,true,true,true
+blight,false,false,false,true,false,false
+downy mildew,false,true,false,true,false,false
+powdery mildew,false,true,true,false,true,true
+rust,false,true,true,true,false,false
+rust,false,false,false,true,true,true
+leaf spot,false,false,true,false,true,false
+rust,true,false,false,false,false,true
+rust,false,false,false,false,false,false
+downy mildew,true,true,true,true,true,true
+powdery mildew,false,true,false,false,false,false
+rust,true,false,true,true,false,true
+blight,true,false,false,true,false,false
+blight,true,true,false,true,false,true
+blight,true,true,false,false,false,false
+rust,false,true,false,true,true,false
+leaf spot,true,false,true,true,true,true
+rust,false,true,true,true,false,true
+blight,true,false,true,false,true,true
+blight,true,false,true,false,true,true
+rust,true,true,true,true,false,false
+downy mildew,false,false,false,false,false,false
+leaf spot,false,false,false,false,true,true
+powdery mildew,true,true,true,true,true,false
+rust,true,false,false,true,true,false
+powdery mildew,true,true,false,false,true,false
+rust,true,false,false,true,true,false
+leaf spot,true,true,true,true,false,true
+blight,true,false,false,false,false,true
+downy mildew,true,false,false,true,true,false
+rust,false,false,false,true,false,true
+blight,true,true,true,true,true,true
+powdery mildew,false,true,true,true,true,false
+rust,true,false,false,true,false,false
+rust,false,true,true,false,false,false
+leaf spot,false,true,false,true,false,true
+rust,false,false,true,false,false,true
+rust,true,false,true,false,false,false
+rust,false,false,false,true,false,false
+leaf spot,false,true,true,false,false,false
+powdery mildew,false,false,true,true,false,true
+leaf spot,true,true,true,true,true,false
+blight,false,true,false,false,false,false
+leaf spot,false,false,false,true,true,false
+blight,true,true,true,false,true,false
+leaf spot,false,false,true,false,true,false
+downy mildew,false,true,true,false,false,true
+leaf spot,false,true,true,true,false,true
+blight,true,false,true,false,false,false
+leaf spot,true,true,true,false,false,true
+downy mildew,false,false,false,false,true,true
+rust,false,true,false,true,false,false
+leaf spot,false,false,false,true,false,false
+rust,true,true,true,false,true,false
+blight,false,true,false,false,false,false
+blight,true,true,true,false,false,false
+rust,true,false,true,false,true,false
+downy mildew,true,false,true,false,true,false
+rust,false,false,false,false,true,false
+blight,false,false,false,true,false,true
+leaf spot,true,true,false,true,false,false
+powdery mildew,false,true,false,true,true,true
+downy mildew,false,true,false,true,false,true
+blight,false,false,true,true,true,false
+rust,false,false,true,true,false,true
+rust,true,true,true,false,false,true
+powdery mildew,false,true,false,false,true,true
+blight,false,false,true,false,false,true
+downy mildew,true,true,true,true,true,true
+leaf spot,true,false,false,true,false,false
+blight,false,false,true,true,true,false
+blight,true,true,false,true,true,true
+blight,false,true,true,true,false,true
+blight,false,true,false,true,true,true
+leaf spot,true,true,false,true,true,true
+leaf spot,false,false,false,false,false,true
+downy mildew,true,true,false,false,true,true
+rust,false,true,false,true,false,true
+leaf spot,false,true,false,true,false,false
+leaf spot,true,false,false,false,true,true
+rust,false,true,false,false,false,true
+powdery mildew,false,false,false,false,true,false
+rust,true,true,true,true,false,false
+rust,true,true,false,true,false,true
+rust,true,false,true,true,false,true
+rust,false,true,false,false,true,false
+leaf spot,false,false,true,false,false,true
+rust,false,false,true,false,true,true
+rust,true,true,false,false,false,false
+leaf spot,true,true,true,true,false,true
+rust,false,false,true,false,true,true
+powdery mildew,false,false,true,false,true,true
+leaf spot,true,true,false,false,true,true
+rust,true,false,true,true,true,false
+rust,false,true,true,true,false,true
+leaf spot,false,false,true,false,false,true
+downy mildew,false,true,true,true,false,true
+downy mildew,false,false,false,false,true,false
+leaf spot,true,true,false,true,false,false
+leaf spot,false,true,true,false,false,true
+downy mildew,true,false,false,false,true,false
+blight,false,false,true,false,false,true
+leaf spot,true,false,true,true,false,true
+powdery mildew,true,true,false,false,true,true
+rust,true,true,true,true,false,true
+leaf spot,true,false,true,false,true,false
+rust,false,true,true,false,false,true
+blight,true,true,false,true,true,false
+blight,false,true,true,false,false,false
+downy mildew,true,true,true,false,false,false
+blight,false,false,false,false,false,true
+blight,true,true,true,false,false,false
+blight,false,false,false,true,false,false
+rust,false,false,true,false,true,false
+blight,true,true,false,true,true,false
+leaf spot,false,false,true,false,false,true
+blight,false,true,true,true,true,true
+rust,true,true,false,true,true,true
+blight,false,false,false,false,true,false
+rust,true,false,true,true,false,false
+blight,true,false,false,true,true,false
+downy mildew,false,false,true,false,false,false
+downy mildew,false,false,true,true,true,false
+rust,true,true,true,true,false,false
+leaf spot,false,true,true,false,false,true
+rust,false,false,true,false,true,false
+downy mildew,false,true,true,true,false,true
+powdery mildew,true,true,true,true,false,true
+rust,false,true,false,true,true,true
+downy mildew,true,false,false,true,false,false
+leaf spot,false,true,true,false,true,false
+blight,true,true,true,false,false,true
+leaf spot,false,false,true,false,false,false
+powdery mildew,false,false,false,false,false,true
+rust,false,false,false,true,true,false
+rust,true,false,false,true,false,false
+rust,true,false,false,true,false,true
+blight,false,true,false,false,true,false
+powdery mildew,false,false,true,false,true,false
+rust,false,false,false,true,false,false
+blight,true,false,true,true,true,true
+rust,false,true,false,true,true,false
+rust,true,false,false,true,true,true
+downy mildew,true,true,false,true,false,true
+blight,true,false,false,false,true,false
+blight,true,true,true,false,true,false
+rust,false,true,true,true,false,true
+rust,false,false,true,true,false,false
+leaf spot,true,true,true,true,true,false
+rust,true,false,false,true,false,false
+blight,false,false,false,false,true,false
+leaf spot,false,true,true,false,true,false
+leaf spot,false,false,false,true,false,true
+rust,true,true,true,false,true,true
+rust,true,true,true,true,false,false
+rust,true,false,true,false,false,true
+leaf spot,true,true,false,false,true,true
+downy mildew,true,true,true,false,false,true
+rust,true,true,false,false,true,true
+downy mildew,false,true,false,true,false,false
+blight,false,false,true,true,false,false
+blight,false,true,false,false,true,false
+rust,false,false,true,false,true,false
+rust,true,false,true,true,false,false
+powdery mildew,false,true,true,false,false,false
+powdery mildew,true,false,false,true,true,false
+blight,true,false,false,false,true,false
+downy mildew,false,true,true,false,true,false
+powdery mildew,true,false,false,false,true,true
+downy mildew,true,false,true,false,false,true
+leaf spot,true,true,true,true,false,false
+blight,true,true,false,true,false,false
+rust,true,true,false,false,true,false
+rust,true,true,false,true,false,false
+rust,false,false,false,false,true,false
+powdery mildew,false,true,true,true,false,false
+leaf spot,true,false,false,false,true,true
+leaf spot,false,true,false,false,true,true
+rust,true,true,false,true,false,true
+blight,true,false,false,false,true,false
+powdery mildew,false,false,true,true,true,false
+blight,true,true,true,true,false,true
+leaf spot,true,false,false,true,false,true
+downy mildew,true,true,false,true,false,true
+rust,false,false,false,true,true,false
+rust,true,false,true,false,true,true
+rust,false,true,true,false,false,true
+leaf spot,false,true,false,false,true,false
+blight,false,true,true,true,true,false
+blight,false,true,true,false,true,false
+rust,true,true,false,false,false,false
+powdery mildew,false,true,true,false,false,true
+powdery mildew,false,true,true,true,true,false
+rust,true,false,false,false,false,true
+leaf spot,true,false,true,false,false,true
+rust,false,true,false,true,false,false
+downy mildew,true,false,false,true,false,true
+leaf spot,true,false,false,true,false,false
+rust,true,true,false,false,true,false
+rust,true,false,false,true,false,true
+rust,true,true,true,false,true,true
+downy mildew,true,false,false,true,false,false
+powdery mildew,false,false,true,false,false,true
+downy mildew,true,false,false,true,false,true
+blight,false,true,false,false,false,false
+powdery mildew,false,false,true,false,true,false
+leaf spot,false,true,true,false,true,true
+rust,false,true,false,false,false,false
+blight,true,true,false,false,true,false
+blight,true,false,true,false,true,false
+powdery mildew,false,true,false,false,false,false
+rust,true,false,true,true,true,false
+powdery mildew,false,true,false,true,true,true
+powdery mildew,true,false,false,true,true,false
+downy mildew,false,false,false,true,false,true
+downy mildew,true,true,false,false,true,true
+downy mildew,true,true,true,false,false,true
+rust,true,true,true,false,true,false
+powdery mildew,false,false,true,false,true,true
+rust,false,true,false,true,false,true
+blight,true,false,true,false,true,true
+blight,true,false,false,true,false,false
+rust,true,true,true,false,false,false
+powdery mildew,true,false,true,false,true,false
+leaf spot,true,false,true,false,true,false
+powdery mildew,false,false,true,true,false,false
+rust,false,false,true,false,true,true
+rust,false,true,true,false,true,true
+downy mildew,false,false,true,true,true,true
+rust,true,true,true,true,true,false
+downy mildew,true,false,false,false,true,true
+rust,false,true,true,true,false,true
+rust,false,false,false,false,true,true
+downy mildew,false,false,false,true,false,true
+rust,true,true,false,true,true,true
+downy mildew,true,true,false,false,true,true
+blight,false,false,false,false,false,true
+blight,true,true,true,true,false,false
+leaf spot,true,false,false,false,false,false
+powdery mildew,true,false,false,true,true,false
+powdery mildew,true,false,true,true,false,false
+rust,true,true,true,true,false,false
+leaf spot,true,true,true,false,true,false
+blight,true,false,false,true,false,true
+rust,false,false,true,true,true,false
+blight,false,true,true,false,false,false
+leaf spot,false,false,false,false,false,true
+rust,false,true,false,true,true,false
+downy mildew,false,false,true,true,true,true
+powdery mildew,false,true,false,true,false,true
+blight,false,false,true,true,true,false
+blight,false,false,false,false,true,true
+blight,false,false,false,false,true,false
+rust,true,true,false,true,true,false
+rust,false,true,false,true,false,true
+rust,false,true,false,true,true,false
+powdery mildew,true,false,false,false,true,true
+rust,false,false,true,true,true,false
+blight,true,false,true,false,true,true
+rust,false,false,false,false,false,false
+leaf spot,false,true,false,true,true,false
+powdery mildew,true,false,true,false,false,false
+blight,true,true,true,true,false,false
+leaf spot,true,true,false,false,true,false
+leaf spot,false,true,true,true,false,false
+blight,false,true,true,false,true,false
+leaf spot,false,true,true,false,true,true
+rust,false,true,true,true,false,true
+leaf spot,false,true,false,true,true,true
+rust,false,false,true,true,false,false
+downy mildew,false,false,true,true,true,false
+blight,false,true,false,false,false,true
+leaf spot,true,false,true,false,false,false
+leaf spot,false,true,false,false,true,true
+rust,false,true,false,false,true,false
+leaf spot,true,false,true,false,false,false
+downy mildew,false,false,true,false,false,true
+rust,false,true,true,true,true,false
+powdery mildew,true,true,true,false,true,false
+blight,false,false,true,false,true,true
+rust,false,false,false,true,false,false
+rust,false,false,true,false,false,false
+rust,true,true,false,true,false,true
+powdery mildew,false,false,true,false,false,true
+rust,false,false,true,true,false,false
+leaf spot,false,false,true,false,true,false
+blight,false,true,true,true,true,false
+blight,true,true,true,true,false,true
+rust,true,false,true,true,false,false
+rust,false,true,true,true,false,true
+leaf spot,true,false,false,true,false,true
+rust,true,true,true,true,true,true
+rust,true,true,true,true,false,true
+downy mildew,true,true,false,false,false,false
+leaf spot,false,false,false,false,true,false
+leaf spot,true,false,false,true,true,false
+leaf spot,false,true,false,false,true,true
+blight,false,false,true,false,false,false
+blight,true,false,false,false,true,true
+rust,true,true,false,true,false,false
+rust,true,false,false,false,false,true
+rust,true,true,false,false,false,false
+rust,true,true,true,false,false,true
+rust,true,false,false,false,false,false
+rust,false,true,true,true,true,false
+rust,false,false,true,false,false,false
+rust,true,true,false,false,false,false
+downy mildew,false,false,false,true,false,true
+leaf spot,true,true,false,true,false,false
+leaf spot,false,true,false,true,false,true
+blight,false,false,false,true,true,false
+rust,true,true,false,false,true,false
+powdery mildew,false,true,false,false,false,true
+leaf spot,false,false,false,false,false,false
+rust,true,true,true,true,true,false
+leaf spot,false,false,true,false,false,false
+rust,false,false,true,true,false,false
+rust,true,false,false,true,false,false
+rust,true,false,false,false,false,false
+rust,true,true,true,true,true,false
+downy mildew,false,true,false,false,true,false
+rust,false,true,false,false,true,true
+blight,false,true,false,true,false,false
+rust,true,true,true,false,false,false
+rust,false,true,false,true,false,true
+powdery mildew,false,false,true,true,false,true
+blight,true,false,false,true,true,false
+leaf spot,true,true,true,true,true,false
+rust,false,true,false,false,true,true
+powdery mildew,true,false,false,true,true,true
+blight,false,true,true,false,false,true
+rust,true,true,true,false,false,false
+rust,false,false,false,false,false,true
+rust,false,true,true,true,false,false
+leaf spot,true,true,true,false,true,false
+blight,false,true,false,false,false,false
+downy mildew,true,true,false,false,false,true
+rust,false,true,false,true,true,false
+blight,true,false,true,false,false,false
+blight,false,true,false,false,false,true
+leaf spot,true,false,true,true,true,false
+leaf spot,true,true,true,false,false,true
+rust,false,false,true,false,false,false
+powdery mildew,false,false,false,true,false,true
+rust,false,true,true,false,false,false
+rust,false,true,true,false,true,false
+powdery mildew,false,false,true,false,false,true
+rust,false,true,false,false,false,false
+leaf spot,false,true,false,true,false,false
+blight,false,true,false,true,true,true
+blight,true,false,true,false,false,false
+rust,false,true,true,false,true,false
+rust,true,true,false,false,true,true
+leaf spot,false,false,false,true,false,false
+downy mildew,false,false,true,true,false,false
+downy mildew,false,true,true,false,false,false
+rust,true,false,false,false,false,true
+rust,false,false,false,false,false,true
+leaf spot,false,false,true,true,false,true
+rust,true,true,false,true,true,false
+rust,false,false,false,true,true,true
+leaf spot,true,false,true,false,false,false
+blight,true,false,false,true,true,true
+blight,true,true,true,true,false,true
+blight,false,true,true,true,false,true
+leaf spot,false,true,true,true,true,true
+blight,true,true,false,true,false,false
+leaf spot,true,false,false,true,false,false
+rust,false,true,false,false,false,false
+rust,true,false,true,true,true,false
+downy mildew,false,false,false,true,false,false
+rust,true,false,true,true,false,true
+downy mildew,false,false,false,false,false,true
+leaf spot,false,false,true,false,false,false
+powdery mildew,true,false,false,true,false,true
+leaf spot,true,false,true,false,false,false
+blight,true,true,false,true,false,false
+rust,true,true,false,true,false,false
+blight,false,true,true,false,false,false
+leaf spot,false,false,false,true,true,true
+blight,true,true,false,false,false,true
+downy mildew,true,false,true,false,false,true
+rust,true,true,false,true,false,true
+powdery mildew,false,true,true,false,false,true
+blight,true,true,false,false,true,true
+blight,true,true,true,false,true,true
+leaf spot,true,false,false,true,true,false
+leaf spot,true,true,false,true,true,true
+blight,false,true,true,true,true,true
+rust,true,false,false,false,true,true
+rust,false,true,true,false,true,true
+rust,true,false,false,false,false,true
+leaf spot,true,true,false,false,true,true
+rust,true,false,false,true,true,true
+leaf spot,true,false,true,false,false,true
+powdery mildew,true,true,true,false,false,false
+downy mildew,false,true,false,false,true,false
+rust,false,false,true,true,true,false
+powdery mildew,false,true,false,false,false,false
+powdery mildew,true,true,true,true,false,false
+blight,false,true,true,true,false,false
+rust,true,false,false,true,true,false
+downy mildew,false,true,true,true,false,false
+powdery mildew,true,false,false,true,false,false
+downy mildew,true,true,true,true,true,true
+blight,false,true,true,false,true,true
+downy mildew,false,false,false,false,true,false
+blight,true,false,false,true,false,false
+rust,true,true,false,true,false,true
+rust,true,false,false,true,false,true
+rust,true,true,false,false,false,false
+powdery mildew,true,true,true,false,true,true
+downy mildew,false,false,false,true,true,true
+rust,false,true,false,true,true,true
+rust,true,false,true,true,true,false
+leaf spot,false,true,false,false,false,false
+blight,false,true,true,false,true,true
+blight,false,true,false,false,false,true
+rust,false,false,false,false,false,true
+blight,true,true,false,true,false,true
+rust,false,false,false,false,false,true
+blight,false,true,false,true,false,true
+rust,true,true,false,false,false,false
+rust,false,false,false,true,false,true
+downy mildew,true,true,false,true,true,false
+powdery mildew,true,false,false,true,false,false
+rust,true,false,true,true,false,true
+rust,false,false,false,true,true,false
+leaf spot,false,true,false,false,true,true
+leaf spot,false,false,false,false,false,false
+downy mildew,true,true,true,false,true,false
+rust,true,true,false,true,true,false
+rust,true,true,true,true,true,false
+leaf spot,false,false,false,true,false,true
+leaf spot,true,false,true,false,true,false
+rust,true,true,false,true,false,true
+blight,false,false,false,true,false,false
+leaf spot,true,true,false,true,false,true
+powdery mildew,true,true,false,true,true,true
+blight,false,true,true,false,true,true
+rust,false,false,false,true,false,true
+leaf spot,true,false,false,true,false,false
+rust,false,true,true,false,false,false
+blight,false,false,true,true,true,false
+leaf spot,false,true,false,false,true,true
+leaf spot,false,false,true,false,false,true
+rust,false,false,false,false,true,false
+blight,true,true,false,true,false,true
+rust,true,false,true,false,false,false
+leaf spot,false,true,false,true,true,true
+blight,false,true,false,false,true,true
+powdery mildew,false,true,false,false,false,true
+powdery mildew,true,true,false,true,true,true
+rust,true,false,true,true,true,true
+leaf spot,false,true,true,true,true,true
+leaf spot,true,true,true,true,false,false
+blight,true,false,true,true,true,false
+leaf spot,true,false,true,false,false,true

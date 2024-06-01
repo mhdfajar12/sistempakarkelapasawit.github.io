@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container mt-5">
+    <p class="mb-0">Nama: {{ session['name'] }}</p>
+    <p class="mb-0">Telepon: {{ session['phone'] }}</p>
+    <p class="mb-0">Alamat: {{ session['address'] }}</p>
+    <h1>Hasil klasifikasi</h1>
+    <h2>
+        {{result["indonesian_name"]}}
+    </h2>
+    <img src="{{result['sample_image']}} " alt="">
+    <p>
+        {{result["explanation"]}}
+    </p>
+    <p>
+      <strong>Penanganan dan Solusi:</strong> <pre>{{ result.solution }}</pre>
+    </p>
+    <h1>Model Metrics</h1>
+    <p>Overall Accuracy: {{ metrics["accuracy"] * 100 }}%</p>
+  
+    <h3>Per-Class Metrics:</h3>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Class</th>
+          <th>Precision</th>
+          <th>Recall</th>
+          <th>F1-Score</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for disease, data in metrics["f1_score"].items() %}
+          <tr>
+            <td>{{ disease }}</td>
+            <td>{{ data["precision"] }}</td>
+            <td>{{ data["recall"] }}</td>
+            <td>{{ data["f1-score"] }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  
+    <h3>Macro and Weighted Averages:</h3>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Metric</th>
+          <th>Macro Avg</th>
+          <th>Weighted Avg</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Precision</td>
+          <td>{{ metrics["f1_score"]["macro avg"]["precision"] }}</td>
+          <td>{{ metrics["f1_score"]["weighted avg"]["precision"] }}</td>
+        </tr>
+        <tr>
+          <td>Recall</td>
+          <td>{{ metrics["f1_score"]["macro avg"]["recall"] }}</td>
+          <td>{{ metrics["f1_score"]["weighted avg"]["recall"] }}</td>
+        </tr>
+        <tr>
+          <td>F1-Score</td>
+          <td>{{ metrics["f1_score"]["macro avg"]["f1-score"] }}</td>
+          <td>{{ metrics["f1_score"]["weighted avg"]["f1-score"] }}</td>
+        </tr>
+      </tbody>
+    </table>
+    <button class="btn btn-primary btn-lg my-5" onclick="window.print()">Cetak</button>
+    <a href="" class="btn btn-danger btn-lg my-5">Keluar</a>
+</div>
+  
+{% endblock content %}
